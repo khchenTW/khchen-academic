@@ -1,16 +1,13 @@
 ---
 title: Kuan-Hsun Chen
-role: ASSISTANT PROFESSOR
+role: Assistant Professor
+avatar_filename: file-2022-7-12-21-31-55.jpeg
 bio: ""
 interests:
-  - Computer Hardware
-  - Data Storage Equipment
-  - Embedded Systems
-  - Neural Networks
-  - Real Time Systems
-  - Scheduling
-  - Wear Of Materials
-  - Multithreading
+  - Real-Time Embedded Systems
+  - Non-volatile Memories
+  - Hardware-Aware Software Automation
+  - Dependable Computing
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -22,8 +19,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/kuan-hsun-chen-21bb6167/
 organizations:
-  - name: University of Twente
-    url: https://www.utwente.nl/en/
+  - name: Computer Architecture and Embedded Systems group at the University of
+      Twente
+    url: https://www.utwente.nl/en/eemcs/caes/
 education:
   courses:
     - course: PhD in Computer Science (Dr.-Ing.)
