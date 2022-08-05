@@ -42,7 +42,7 @@ experience:
     location: Dortmund, Germany
     date_start: '2019-05-01'
     date_end: '2021-08-31'
-    description: |2-
+    description: |3-
         Lectures:
         
         * Real-Time Operating Systems Design and Implementation
