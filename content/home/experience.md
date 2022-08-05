@@ -40,7 +40,7 @@ experience:
     company_url: ''
     company_logo: 
     location: Dortmund, Germany
-    date_start: '2019-05-01'
+    date_start: '2019-06-01'
     date_end: '2021-08-31'
     description: |2-
         Lectures:
@@ -58,8 +58,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Dortmund, Germany
-    date_start: '2014'
-    date_end: '2019'
+    date_start: '2014-03-01'
+    date_end: '2019-05-31'
     description: |2-
         Projects:
         
