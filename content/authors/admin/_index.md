@@ -4,6 +4,12 @@ role: ASSISTANT PROFESSOR
 bio: ""
 interests:
   - "Engineering & Materials Science # Computer Hardware"
+  - "# Data Storage Equipment"
+  - "# Embedded Systems"
+  - "# Neural Networks"
+  - "# Real Time Systems"
+  - "# Scheduling"
+  - "# Wear Of Materials"
 social:
   - icon: google-scholar
     icon_pack: ai
