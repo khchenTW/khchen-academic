@@ -24,13 +24,14 @@ organizations:
     url: https://www.utwente.nl/en/eemcs/caes/
 education:
   courses:
-    - course: PhD in Computer Science (Dr.-Ing.)
+    - course: PhD in Computer Science (Dr.-Ing., with the highest distinction "summa
+        cum laude")
       institution: TU Dortmund University, Germany
       year: 2019
-    - course: Master’s degree in Computer Science
-      institution: National Tsing Hua Uni­ver­sity in Taiwan
+    - course: MSc in Computer Science
+      institution: National Tsing-Hua Uni­ver­sity in Taiwan
       year: 2013
-    - course: BA in Computer Science / Humanities and Social Sciences
+    - course: BA in Computer Science (Minor) / Humanities and Social Sciences (Major)
       institution: National Tsing Hua Uni­ver­sity in Taiwan
       year: 2011
 email: k.h.chen@utwente.nl
@@ -39,8 +40,8 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am a tenured assistant professor in the Computer Architecture and Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as an Associate Editor for [the AIMS Applied Computing and Intelligence journal](https://aimspress.com/journal/aci) and Guest Editor for [ACM Transaction on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) and [the Journal of Signal Processing Systems](https://www.springer.com/journal/11265).
+I am a tenured assistant professor in the Computer Architecture and Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as an Associate Editor for [the AIMS Applied Computing and Intelligence journal](https://aimspress.com/journal/aci) and Guest Editor for [ACM Transaction on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) and [the Journal of Signal Processing Systems](https://www.springer.com/journal/11265). 
 
-My research interest is very broad, from algorithm design down to compilation. Particularly, I like to explore architecture-aware software automation and bridge the gap between theory and practice in real-time system software. Since 2016 I am also a mentor in Google Summer of Code for RTEMS. In case you are interested in the development of open-source RTOS, feel free to contact me.
+My research interest is very broad, i.e., from algorithm down to compilation. Particularly, I like to develop architecture-aware software automation and bridge the gap between theory and practice in real-time system software. In my free time, I am also a mentor in Google Summer of Code for RTEMS since 2016. 
 
 <!--EndFragment-->
