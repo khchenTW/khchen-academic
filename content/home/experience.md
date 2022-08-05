@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tenured Assistant Professor at Computer Architecture and Embedded Systems group
-    company: Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), University of Twente, The Netherlands.
+  - title: Tenured Assistant Professor 
+    company: Computer Architecture and Embedded Systems group, University of Twente
     company_url: 'https://people.utwente.nl/k.h.chen?tab=about-me'
     company_logo: 
     location: Enschede, The Netherlands
@@ -34,7 +34,23 @@ experience:
         
         * Operating systems, TCS/EE bachelor programme
         * Programming in C, EE bachelor programme
-    
+
+  - title: Postdoctoral Researcher 
+    company: Design Automation for Embedded Systems, Technische Universität Dortmund
+    company_url: ''
+    company_logo: 
+    location: Dortmund, Germany
+    date_start: '2019-05-01'
+    date_end: '2021-08-31'
+    description: |2-
+        Lectures:
+        
+        * Real-Time Operating Systems Design and Implementation
+        * Cyber-Physical System Fundamentals
+        
+        Projects:
+        * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
+        * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
 design:
   columns: '2'
 ---
