@@ -26,6 +26,54 @@ item:
     organization_url: 
     title: JSPS Postdoctoral Fellowship Summer Programme
     url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2020-11-20
+    description: ""
+    organization: Alumni of Computer Science in TU Dortmund, Supervisor
+    organization_url: 
+    title:  P 5 -Project Group Practice Award
+    url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2019-12-01
+    description: ""
+    organization: Technical University of Dortmund (TUDo)
+    organization_url: 
+    title:  Ph.D. thesis award for Optimization and Analysis for Dependable Application Software on Unreliable Hardware Platforms
+    url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2019-05-15
+    description: ""
+    organization: Design Automation Conference (DAC)
+    organization_url: 
+    title: SIGDA Student Travel Grant
+    url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2018-08-01
+    description: ""
+    organization: RTCSA
+    organization_url: 
+    title: Best student paper award for “Analysis of Deadline Miss Rates for Uniprocessor Fixed-Priority Scheduling”
+    url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2018-05-15
+    description: ""
+    organization: International Conference on Cyber-Physical Systems week (CPSWEEK)
+    organization_url: 
+    title: SIGBED Student Travel Grant
+    url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2016-06-07
+    description: ""
+    organization: Languages, Compilers, and Tools for Embedded Systems (LCTES)
+    organization_url: 
+    title: SIGPLAN PAC Grants
+    url: ""
 widget_id: Honors / Awards / Grants
 headless: true
 weight: 30
