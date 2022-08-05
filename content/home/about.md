@@ -1,6 +1,6 @@
 ---
-widget: ABOUT ME
-widget_id: ABOUT ME
+widget: about
+widget_id: about
 headless: true
 weight: 20
 title: Biography
