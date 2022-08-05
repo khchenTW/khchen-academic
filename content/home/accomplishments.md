@@ -1,21 +1,36 @@
 ---
 widget: accomplishments
 date_format: Jan 2006
+
+widget_id: Honors / Awards / Grants
+headless: true
+weight: 50
+title: Honors / Awards
+subtitle: null
+
 item:
   - certificate_url: 
     date_end: ""
     date_start: 2022-06-30
-    description: ""
-    organization: Funding
+    description: "We aim at creating a sustainable community on real-time systems in NL to combine its research forces, stimulate collaborations cohesively, and favor its outreach internationally."
+    organization: 4TU.NIRICT Community Funding
     organization_url: 
-    title: 4TU.NIRICT Community Funding for “Dutch Real-Time Systems”
-    url: ""
+    title: Dutch Real-Time Systems
+    url: "https://www.4tu.nl/nirict/Projects/All_projects/Dutch%20Real-Time%20Systems%20Community/"
+  - certificate_url: 
+    date_end: ""
+    date_start: 2022-05-01
+    description: ""
+    organization: ACM SIGDA
+    organization_url: "https://www.sigda.org/whos-who/whos-kuan-hsun-chen/" 
+    title: Promotion by ACM SIGDA on "Who's who"
+    url: ""    
   - certificate_url: 
     date_end: ""
     date_start: 2021-10-01
     description: ""
     organization: The IEEE Real-Time Systems Symposium
-    organization_url: 
+    organization_url: "http://2021.rtss.org/" 
     title: Multimedia (A/V) Chair
     url: ""
   - certificate_url: 
@@ -40,15 +55,15 @@ item:
     description: ""
     organization: Alumni of Computer Science in TU Dortmund, Supervisor
     organization_url: 
-    title:  P 5 -Project Group Practice Award
+    title:  P5 -Project Group Practice Award
     url: ""
   - certificate_url: 
     date_end: ""
     date_start: 2019-12-01
-    description: ""
+    description: "Auf der Akademischen Jahresfeier der TU Dortmund am 16.12.2019 erhielt Dr.-Ing. Kuan-Hsun Chen (Lehrstuhl 12/Design Automation for Embedded Systems Group) den Dissertationspreis der TU Dortmund für die Fakultät für Informatik. Seine Arbeit trägt den Titel "Optimization and Analysis for Dependable Application Software on Unreliable Hardware Platforms". Das Foto zeigt den Preisträger mit den Prorektorinnen Prof. Dr. Sadowski (li.) und Prof. Dr. Melle (re.)."
     organization: Technical University of Dortmund (TUDo)
-    organization_url: 
-    title:  Ph.D. thesis award for Optimization and Analysis for Dependable Application Software on Unreliable Hardware Platforms
+    organization_url: "https://www.cs.tu-dortmund.de/nps/de/Home/Newsarchiv/2019/index.html"
+    title:  Dissertation Award for Optimization and Analysis for Dependable Application Software on Unreliable Hardware Platforms
     url: ""
   - certificate_url: 
     date_end: ""
@@ -62,9 +77,9 @@ item:
     date_end: ""
     date_start: 2018-08-01
     description: ""
-    organization: RTCSA
+    organization: IEEE International Conference on Embedded and Real-Time Computing Systems and Applications
     organization_url: 
-    title: Best student paper award for “Analysis of Deadline Miss Rates for Uniprocessor Fixed-Priority Scheduling”
+    title: Best Student Paper Award for “Analysis of Deadline Miss Rates for Uniprocessor Fixed-Priority Scheduling”
     url: ""
   - certificate_url: 
     date_end: ""
@@ -82,11 +97,7 @@ item:
     organization_url: 
     title: SIGPLAN PAC Grants
     url: ""
-widget_id: Honors / Awards / Grants
-headless: true
-weight: 50
-title: Honors / Awards
-subtitle: null
+
 design:
   columns: "2"
 ---
