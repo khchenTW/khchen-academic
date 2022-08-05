@@ -12,6 +12,14 @@ item:
     url: ""
   - certificate_url: 
     date_end: ""
+    date_start: 2021-10-01
+    description: ""
+    organization: The IEEE Real-Time Systems Symposium
+    organization_url: 
+    title: Multimedia (A/V) Chair
+    url: ""
+  - certificate_url: 
+    date_end: ""
     date_start: 2021-02-01
     description: ""
     organization: Design, Automation and Test in Europe Conference (DATE)
