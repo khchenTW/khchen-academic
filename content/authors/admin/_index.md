@@ -32,11 +32,7 @@ education:
     - course: Master’s degree in Computer Science
       institution: National Tsing Hua Uni­ver­sity in Taiwan
       year: 2013
-    - course: BSc in the faculty of the Interdisciplinary Program of Humanities and
-        Social Sciences
-      institution: National Tsing Hua Uni­ver­sity in Taiwan
-      year: 2011
-    - course: "BSc in Computer Science "
+    - course: BA in Computer Science / Humanities and Social Sciences
       institution: National Tsing Hua Uni­ver­sity in Taiwan
       year: 2011
 email: k.h.chen@utwente.nl
