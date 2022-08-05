@@ -39,12 +39,8 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Dr.-Ing. Kuan-Hsun Chen is a tenured assistant professor at the Chair of Computer Architecture and Embedded Systems (CAES) for the University of Twente in the Netherlands.
+I am a tenured assistant professor in the Computer Architecture and Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as an Associate Editor for [the AIMS Applied Computing and Intelligence journal] (https://aimspress.com/journal/aci) and Guest Editor for [ACM Transaction on Cyber-Physcial Systems](https://dl.acm.org/journal/tcps) and [the Journal of Signal Processing Systems](https://www.springer.com/journal/11265).
 
-From Aug. 2019 to Aug. 2021, he was a Postdoc at Design and Automation for Embedded Systems (DAES) group, at TU Dort­mund Uni­ver­sity (TUDo), in Germany. He earned his Ph.D. degree (05.2019) in Computer Science (Dr.-Ing.) from TU Dortmund University, Germany with distinction (summa cum laude). He earned his master’s degree in Computer Science (2013) and his bachelor's degree from the faculty of the Interdisciplinary Program of Humanities and Social Sciences (2011) at National Tsing Hua Uni­ver­sity in Taiwan.
-
-Dr. Chen currently serves as Associate Editor for the AIMS Applied Computing and Intelligence journal and Guest Editor for the Journal of Signal Processing Systems. He has published 40+ scientific works in top peer-reviewed journals (e.g., TC and TECS) and international conferences (e.g., EMSOFT, RTSS, RTAS, DAC, LCTES). He is also a Technical Program Committee (TPC) member for many international conferences and a reviewer for many peer-reviewed journals and conferences in computer science.
-
-Dr. Chen is one founder of the Dutch Real-Time System Community,  funded by 4TU.NIRICT in 2022. He also holds one best student paper award at RTCSA’18, one best paper nomination at DATE’21, and one dissertation award at TU Dortmund University in 2019. Moreover, he was granted by the German Academic Exchange Service (DAAD) one exchange project and by the Japan Society for the Promotion of Science (JSPS) a postdoctoral fellowship in 2021. He has been a volunteer mentor in ESA Summer of Code in Space (2017) and Google Summer of Code since 2016 for open-source development on a popular real-time operating system, RTEMS.
+My research interest is very broad, from algorithm design down to compilation. Particularly, I like to explore architecture-aware software automation and bridge the gap between theory and practice in real-time system software. Since 2016 I am also a mentor in Google Summer of Code for RTEMS. In case you are interested in the development of open-source RTOS, feel free to contact me.
 
 <!--EndFragment-->
