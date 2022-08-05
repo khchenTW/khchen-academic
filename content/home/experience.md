@@ -42,7 +42,7 @@ experience:
     location: Dortmund, Germany
     date_start: '2019-05-01'
     date_end: '2021-08-31'
-    description: |3-
+    description: |2-
         Lectures:
         
         * Real-Time Operating Systems Design and Implementation
@@ -53,8 +53,8 @@ experience:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
 
-  - title: Research Assistant at Chair XII: Design Automation for Embedded Systems
-    company: Technische Universität Dortmund, Germany
+  - title: Research Assistant
+    company:  Design Automation for Embedded Systems, Technische Universität Dortmund 
     company_url: ''
     company_logo: 
     location: Dortmund, Germany
