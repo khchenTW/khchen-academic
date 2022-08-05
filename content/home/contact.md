@@ -10,15 +10,14 @@ content:
   autolink: true
 
   address:
-    street: 
-    city: 
-    region: 
-    postcode: ""
-    country: 
+    street: Hallenweg 19
+    city: Enschede 
+    postcode: "7522NH"
+    country: The Netherlands
     country_code: NL
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
+    latitude: "52.23930"
+    longitude: "6.8570"
   email: k.h.chen@utwente.nl
 design:
   columns: "2"
