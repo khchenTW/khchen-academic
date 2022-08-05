@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: My journey in Europe
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -77,29 +77,6 @@ experience:
         Projects:
         
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
-
-  - title: Student Assistant 
-    company: National Taiwan Tsing Hua University (NTHU)
-    company_url: ''
-    company_logo: 
-    location: Hsinchu, Taiwan
-    date_start: '2011-01-01'
-    date_end: '2012-01-01'
-    description: |2-
-        Projects:
-        
-        * Android project for National Science Council
-
-  - title: Intern for Web Development
-    company: National Center for High-Performance Computing (NCHC)
-    company_url: ''
-    company_logo: 
-    location: Hsinchu, Taiwan
-    date_start: '2007-01-01'
-    date_end: '2012-01-01'
-    description: |2-
-        Projects:
-        * Water Resources Agency Project
 
 design:
   columns: '2'
