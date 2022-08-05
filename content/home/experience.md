@@ -78,8 +78,8 @@ experience:
         
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
 
-- title: Student Assistant - Android project for National Science Council
-    company: National Taiwan Tsing Hua University (NTHU), Taiwan
+  - title: Student Assistant 
+    company: National Taiwan Tsing Hua University (NTHU)
     company_url: ''
     company_logo: 
     location: Hsinchu, Taiwan
@@ -87,8 +87,10 @@ experience:
     date_end: '2012-01-01'
     description: |2-
         Projects:
+        
+        * Android project for National Science Council
 
-  - title: Intern for Web Development - Water Resources Agency Project
+  - title: Intern for Web Development
     company: National Center for High-Performance Computing (NCHC)
     company_url: ''
     company_logo: 
@@ -97,6 +99,7 @@ experience:
     date_end: '2012-01-01'
     description: |2-
         Projects:
+        * Water Resources Agency Project
 
 design:
   columns: '2'
