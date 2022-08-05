@@ -60,7 +60,7 @@ item:
   - certificate_url: 
     date_end: ""
     date_start: 2019-12-01
-    description: "Auf der Akademischen Jahresfeier der TU Dortmund am 16.12.2019 erhielt Dr.-Ing. Kuan-Hsun Chen (Lehrstuhl 12/Design Automation for Embedded Systems Group) den Dissertationspreis der TU Dortmund für die Fakultät für Informatik. Seine Arbeit trägt den Titel "Optimization and Analysis for Dependable Application Software on Unreliable Hardware Platforms". Das Foto zeigt den Preisträger mit den Prorektorinnen Prof. Dr. Sadowski (li.) und Prof. Dr. Melle (re.)."
+    description: ""
     organization: Technical University of Dortmund (TUDo)
     organization_url: "https://www.cs.tu-dortmund.de/nps/de/Home/Newsarchiv/2019/index.html"
     title:  Dissertation Award for Optimization and Analysis for Dependable Application Software on Unreliable Hardware Platforms
