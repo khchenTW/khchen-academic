@@ -51,7 +51,6 @@ experience:
         Projects:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
-
   - title: Research Assistant at Chair XII: Design Automation for Embedded Systems
     company: Technische Universität Dortmund, Germany
     company_url: ''
