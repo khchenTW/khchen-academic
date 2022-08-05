@@ -1,16 +1,14 @@
 ---
-title: Technical Talk in ECRTS 2022 about "Unikernel-based real-time virtualization"
+title: Technical Talk in ECRTS 2022 
 
 event: 34th Euromicro Conference on Real-Time Systems
 event_url: https://www.ecrts.org/
 
 location: Modena, Italy
 
-summary: This work is the research result from the collaboration with TU Dortmund and EMVICORE GmbH.
-abstract: 'For cyber-physical systems, real-time virtualization optimizes the hardware utilization by consolidating multiple systems into the same platform, while satisfying the timing constraints of their real-time tasks. This paper considers virtualization based on unikernels, i.e., single address space
-kernels usually constructed by using library operating systems. Each unikernel is a guest operating system in the virtualization and hosts a single real-time task.
+summary: This talk is about "Unikernel-based real-time virtualization". the research result from the collaboration with TU Dortmund and EMVICORE GmbH.
+abstract: 'For cyber-physical systems, real-time virtualization optimizes the hardware utilization by consolidating multiple systems into the same platform, while satisfying the timing constraints of their real-time tasks. This paper considers virtualization based on unikernels, i.e., single address space kernels usually constructed by using library operating systems. We consider deferrable servers in the virtualization platform to schedule the unikernel-based guest operating systems and analyze the worst-case response time of a sporadic real-time task under such a virtualization architecture.'
 
-We consider deferrable servers in the virtualization platform to schedule the unikernel-based guest operating systems and analyze the worst-case response time of a sporadic real-time task under such a virtualization architecture. Throughout synthesized tasksets, we empirically show that our analysis outperforms the restated analysis derived from the state-of-the-art, which is based on Real-Time Calculus. Furthermore, we provide insights on implementation-specific issues and offer evidence that the proposed scheduling architecture can be effectively implemented on top of the Xen hypervisor while incurring acceptable overhead.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-07-05T08:30:00Z'
@@ -56,4 +54,4 @@ url_video: ''
 #  - example
 ---
 
-Further event details can be found in the [offical website](https://www.ecrts.org/).
+This work is resulted from the international cooperation with [TU Dortmund](https://daes.cs.tu-dortmund.de/) and [EMVICORE GmbH](https://emvicore.com/de/). Further event details can be found in the [offical website](https://www.ecrts.org/).
