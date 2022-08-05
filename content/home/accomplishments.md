@@ -84,8 +84,8 @@ item:
     url: ""
 widget_id: Honors / Awards / Grants
 headless: true
-weight: 30
-title: Honors / Awards / Grants
+weight: 50
+title: Honors / Awards
 subtitle: null
 design:
   columns: "2"
