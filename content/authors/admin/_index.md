@@ -3,7 +3,6 @@ title: Kuan-Hsun Chen
 role: ASSISTANT PROFESSOR
 bio: ""
 interests:
-  - "# Engineering & Materials Science - >"
   - Computer Hardware
   - Data Storage Equipment
   - Embedded Systems
@@ -11,7 +10,6 @@ interests:
   - Real Time Systems
   - Scheduling
   - Wear Of Materials
-  - "# Mathematics- >"
   - Multithreading
 social:
   - icon: google-scholar
