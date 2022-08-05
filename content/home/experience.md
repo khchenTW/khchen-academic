@@ -46,9 +46,10 @@ experience:
         Lectures:
         
         * Real-Time Operating Systems Design and Implementation
-        * Cyber-Physical System Fundamentals
+        * Cyber-Physical System Fundamentals        
+       
+       Projects:
         
-        Projects:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
 
@@ -64,7 +65,6 @@ experience:
         
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
-
 design:
   columns: '2'
 ---
