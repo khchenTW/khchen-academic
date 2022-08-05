@@ -23,8 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Tenured Assistant Professor at Computer Architecture and Embedded Systems group
-    company: Faculty of Electrical Engineering, Mathematics and Computer Science
-(EEMCS), University of Twente, The Netherlands.
+    company: Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), University of Twente, The Netherlands.
     company_url: 'https://people.utwente.nl/k.h.chen?tab=about-me'
     company_logo: 
     location: Enschede, The Netherlands
@@ -44,13 +43,13 @@ Systems
     location: Dortmund, Germany
     date_start: '2019-05-01'
     date_end: '2021-08-31'
-    description: |3-
+    description: |2-
         Lectures:
         
         * Real-Time Operating Systems Design and Implementation
         * Cyber-Physical System Fundamentals
         
-        Projects
+        Projects:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
 
