@@ -37,7 +37,7 @@ experience:
 
   - title: Postdoctoral Researcher 
     company: Design Automation for Embedded Systems, Technische Universität Dortmund
-    company_url: ''
+    company_url: 'https://daes.cs.tu-dortmund.de/'
     company_logo: 
     location: Dortmund, Germany
     date_start: '2019-06-01'
@@ -53,9 +53,9 @@ experience:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
 
-  - title: Research Assistant
+  - title: Research Associate
     company:  Design Automation for Embedded Systems, Technische Universität Dortmund 
-    company_url: ''
+    company_url: 'https://daes.cs.tu-dortmund.de/'
     company_logo: 
     location: Dortmund, Germany
     date_start: '2014-03-01'
@@ -64,7 +64,40 @@ experience:
         Projects:
         
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
+        * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded System
+
+  - title: Research Associate at Chair of Micro Hardware Technologies for Automation
+    company: Karlsruhe Institute of Technology (KIT), Germany
+    company_url: ''
+    company_logo: 
+    location: Karlsruhe, Germany
+    date_start: '2013-03-01'
+    date_end: '2014-02-28'
+    description: |2-
+        Projects:
+        
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
+
+- title: Student Assistant - Android project for National Science Council
+    company: National Taiwan Tsing Hua University (NTHU), Taiwan
+    company_url: ''
+    company_logo: 
+    location: Hsinchu, Taiwan
+    date_start: '2011-01-01'
+    date_end: '2012-01-01'
+    description: |2-
+        Projects:
+
+  - title: Intern for Web Development - Water Resources Agency Project
+    company: National Center for High-Performance Computing (NCHC)
+    company_url: ''
+    company_logo: 
+    location: Hsinchu, Taiwan
+    date_start: '2007-01-01'
+    date_end: '2012-01-01'
+    description: |2-
+        Projects:
+
 design:
   columns: '2'
 ---
