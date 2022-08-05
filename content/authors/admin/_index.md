@@ -11,6 +11,8 @@ interests:
   - Real Time Systems
   - Scheduling
   - Wear Of Materials
+  - "#Mathematics"
+  - Multithreading
 social:
   - icon: google-scholar
     icon_pack: ai
