@@ -8,7 +8,7 @@ subtitle: null
 content:
 
   autolink: true
-
+  directions: Zilverling Building, Office 5037
   address:
     street: Hallenweg 19
     city: Enschede 
