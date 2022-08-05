@@ -28,6 +28,9 @@ education:
         Social Sciences
       institution: National Tsing Hua Uni­ver­sity in Taiwan
       year: 2011
+    - course: "BSc in Computer Science "
+      institution: National Tsing Hua Uni­ver­sity in Taiwan
+      year: 2011
 email: k.h.chen@utwente.nl
 superuser: true
 highlight_name: true
