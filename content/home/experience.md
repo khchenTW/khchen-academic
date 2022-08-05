@@ -64,8 +64,8 @@ experience:
         
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
-      
-  - title: Research Assistant at Chair of Micro Hardware Technologies for Automation
+
+- title: Research Assistant at Chair of Micro Hardware Technologies for Automation
     company: Karlsruhe Institute of Technology (KIT), Germany
     company_url: ''
     company_logo: 
@@ -76,27 +76,6 @@ experience:
         Projects:
         
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
-
-  - title: Student Assistant: Android project for National Science Council
-    company:National Taiwan Tsing Hua University (NTHU), Taiwan
-    company_url: ''
-    company_logo: 
-    location: Hsinchu, Taiwan
-    date_start: '2011'
-    date_end: '2012'
-    description: |2-
-        Projects:
-              
-  - title: Intern for Web Development: Water Resources Agency Project
-    company: National Center for High-Performance Computing (NCHC)
-    company_url: ''
-    company_logo: 
-    location: Hsinchu, Taiwan
-    date_start: '2007'
-    date_end: '2012'
-    description: |2-
-    Projects:
-
 design:
   columns: '2'
 ---
