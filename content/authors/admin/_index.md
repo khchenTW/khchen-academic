@@ -4,9 +4,9 @@ role: ASSISTANT PROFESSOR
 bio: ""
 interests: []
 social:
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.nl/citations?user=puM1q8UAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/khchenTW
