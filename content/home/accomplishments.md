@@ -12,7 +12,7 @@ item:
     url: ""
   - certificate_url: 
     date_end: ""
-    date_start: 2021-01-01
+    date_start: 2021-02-01
     description: ""
     organization: Design, Automation and Test in Europe Conference (DATE)
     organization_url: 
@@ -20,7 +20,7 @@ item:
     url: ""
   - certificate_url: 
     date_end: ""
-    date_start: 2021-0-01
+    date_start: 2021-04-01
     description: ""
     organization: German Academic Exchange Service (DAAD)
     organization_url: 
