@@ -1,11 +1,14 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: about
 headless: true
 weight: 20
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: file-2022-7-12-21-31-55.jpeg
 ---
 Dr.-Ing. Kuan-Hsun Chen is a tenured assistant professor at the Chair of Computer Architecture and Embedded Systems (CAES) for the University of Twente in the Netherlands.
 
