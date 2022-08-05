@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tenured Assistant Professor 
-    company: Computer Architecture and Embedded Systems group, University of Twente
+  - title: Assistant Professor (Tenured)
+    company: Computer Architecture and Embedded Systems, University of Twente
     company_url: 'https://people.utwente.nl/k.h.chen?tab=about-me'
     company_logo: 
     location: Enschede, The Netherlands
@@ -51,6 +51,52 @@ experience:
         Projects:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
+
+  - title: Research Assistant at Chair XII: Design Automation for Embedded Systems
+    company: Technische Universität Dortmund, Germany
+    company_url: ''
+    company_logo: 
+    location: Dortmund, Germany
+    date_start: '2014'
+    date_end: '2019'
+    description: |2-
+        Projects:
+        
+        * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
+        * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
+      
+  - title: Research Assistant at Chair of Micro Hardware Technologies for Automation
+    company: Karlsruhe Institute of Technology (KIT), Germany
+    company_url: ''
+    company_logo: 
+    location: Karlsruhe, Germany
+    date_start: '2013'
+    date_end: '2014'
+    description: |2-
+        Projects:
+        
+        * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
+
+  - title: Student Assistant: Android project for National Science Council
+    company:National Taiwan Tsing Hua University (NTHU), Taiwan
+    company_url: ''
+    company_logo: 
+    location: Hsinchu, Taiwan
+    date_start: '2011'
+    date_end: '2012'
+    description: |2-
+        Projects:
+              
+  - title: Intern for Web Development: Water Resources Agency Project
+    company: National Center for High-Performance Computing (NCHC)
+    company_url: ''
+    company_logo: 
+    location: Hsinchu, Taiwan
+    date_start: '2007'
+    date_end: '2012'
+    description: |2-
+    Projects:
+
 design:
   columns: '2'
 ---
