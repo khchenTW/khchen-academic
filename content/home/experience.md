@@ -65,17 +65,6 @@ experience:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
 
-  - title: Research Assistant at Chair of Micro Hardware Technologies for Automation
-    company: Karlsruhe Institute of Technology (KIT), Germany
-    company_url: ''
-    company_logo: 
-    location: Karlsruhe, Germany
-    date_start: '2013'
-    date_end: '2014'
-    description: |2-
-        Projects:
-        
-        * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
 design:
   columns: '2'
 ---
