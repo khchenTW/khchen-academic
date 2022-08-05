@@ -2,15 +2,15 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ""
-    date_start: 2021-01-25
+    date_start: 2022-01-25
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Funding
+    organization_url: 
+    title: 4TU.NIRICT Community Funding for “Dutch Real-Time Systems”
     url: ""
-  - certificate_url: https://www.edx.org
+  - certificate_url: 
     date_end: ""
     date_start: 2021-01-01
     description: Formulated informed blockchain models, hypotheses, and use cases.
