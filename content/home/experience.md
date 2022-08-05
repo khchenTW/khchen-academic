@@ -51,6 +51,7 @@ experience:
         Projects:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
+        
   - title: Research Assistant at Chair XII: Design Automation for Embedded Systems
     company: Technische Universität Dortmund, Germany
     company_url: ''
@@ -64,7 +65,7 @@ experience:
         * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
         * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
 
-- title: Research Assistant at Chair of Micro Hardware Technologies for Automation
+  - title: Research Assistant at Chair of Micro Hardware Technologies for Automation
     company: Karlsruhe Institute of Technology (KIT), Germany
     company_url: ''
     company_logo: 
