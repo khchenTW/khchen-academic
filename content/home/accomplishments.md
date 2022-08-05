@@ -4,7 +4,7 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ""
-    date_start: 2022-01-25
+    date_start: 2022-06-30
     description: ""
     organization: Funding
     organization_url: 
@@ -13,18 +13,18 @@ item:
   - certificate_url: 
     date_end: ""
     date_start: 2021-01-01
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: 2020-12-21
-    date_start: 2020-07-01
     description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: Object-Oriented Programming in R
+    organization: Design, Automation and Test in Europe Conference (DATE)
+    organization_url: 
+    title: Nomination of Best Paper Award for “Margin-Maximization in Binarized Neural Networks for Optimizing Bit Error Tolerance”
+    url: ""
+  - certificate_url: 
+    date_end: ""
+    date_start: 2021-0-01
+    description: ""
+    organization: German Academic Exchange Service (DAAD)
+    organization_url: 
+    title: JSPS Postdoctoral Fellowship Summer Programme
     url: ""
 widget_id: Honors / Awards / Grants
 headless: true
