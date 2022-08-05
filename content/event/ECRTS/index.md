@@ -1,12 +1,12 @@
 ---
-title: Unikernel-Based Real-Time Virtualization under Deferrable Servers: Analysis and Realization
+title: Technical Talk in ECRTS 2022 about "Unikernel-based real-time virtualization"
 
 event: 34th Euromicro Conference on Real-Time Systems
 event_url: https://www.ecrts.org/
 
 location: Modena, Italy
 
-summary: A technical Talk in ECRTS 2022 about "Unikernel-based real-time virtualization".
+summary: This work is the research result from the collaboration with TU Dortmund and EMVICORE GmbH.
 abstract: 'For cyber-physical systems, real-time virtualization optimizes the hardware utilization by consolidating multiple systems into the same platform, while satisfying the timing constraints of their real-time tasks. This paper considers virtualization based on unikernels, i.e., single address space
 kernels usually constructed by using library operating systems. Each unikernel is a guest operating system in the virtualization and hosts a single real-time task.
 
