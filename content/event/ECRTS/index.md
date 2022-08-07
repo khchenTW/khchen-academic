@@ -8,8 +8,7 @@ abstract: For cyber-physical systems, real-time virtualization optimizes the
   unikernel-based guest operating systems and analyze the worst-case response
   time of a sporadic real-time task under such a virtualization architecture.
 url_pdf: https://drops.dagstuhl.de/opus/volltexte/2022/16323/pdf/LIPIcs-ECRTS-2022-6.pdf
-summary: This talk is about "Unikernel-based real-time virtualization". the
-  research result from the collaboration with TU Dortmund and EMVICORE GmbH.
+summary: This talk is about "Unikernel-based real-time virtualization", resulted from the collaboration with TU Dortmund and EMVICORE GmbH.
 title: Technical Talk in ECRTS 2022
 location: Modena, Italy
 date: 2022-07-05T08:30:00Z
