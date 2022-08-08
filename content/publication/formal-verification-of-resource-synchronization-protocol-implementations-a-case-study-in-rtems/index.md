@@ -21,7 +21,7 @@ abstract: "To avoid race conditions and ensure data integrity, resource
   properties of such a protocol may not be delivered, leading to potential
   mismatches. "
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
