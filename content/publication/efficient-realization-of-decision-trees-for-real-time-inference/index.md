@@ -13,7 +13,7 @@ authors:
   - Katharina Morik
   - Jian-Jia Chen
 doi: 10.1145/3508019
-publication: ACM Trans. Embed. Comput. Syst. (TECS)
+publication: ACM Transactions on Embedded Computing Systems (TECS)
 publication_short: ACM Trans. Embed. Comput. Syst. (TECS)
 abstract: "For timing-sensitive edge applications, the demand for efficient
   lightweight machine learning solutions has increased recently. Tree ensembles
@@ -33,6 +33,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-08-08T09:29:25.165Z
+date: 2022-01-26T10:29:00.000Z
 ---
 We adopt a probabilistic model of decision tree inference to find the best memory layout for each tree at the application layer. Further, we present an efficient heuristic to take architecture-dependent information into account thereby optimizing the given ensemble for a target computer architecture. Our code-generation framework, which is freely available on an open-source repository, produces optimized code sessions while preserving the structure and accuracy of the trees. With several real-world data sets, we evaluate the elapsed time of various tree realizations on server hardware as well as embedded systems for Intel and ARM processors. Our optimized memory layout achieves a reduction in execution time up to 75 % execution for server-class systems, and up to 70 % for embedded systems, respectively.
