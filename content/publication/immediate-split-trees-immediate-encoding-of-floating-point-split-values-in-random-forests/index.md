@@ -1,7 +1,7 @@
 ---
 title: "Immediate Split Trees: Immediate Encoding of Floating Point Split Values
   in Random Forests"
-subtitle: Just Accepted
+subtitle: Just accepted
 publication_types:
   - "1"
 authors:
