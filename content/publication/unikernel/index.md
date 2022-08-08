@@ -21,11 +21,11 @@ authors:
   - Markus Buschhoff
   - Jian-Jia Chen
 author_notes: []
-publication: In *34th Euromicro Conference on Real-Time Systems*
+publication: In *34th Euromicro Conference on Real-Time Systems (ECRTS)*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ECRTS*
+publication_short: In *34th Euromicro Conference on Real-Time Systems (ECRTS)*
 url_source: ""
 url_video: ""
 title: "Unikernel-Based Real-Time Virtualization under Deferrable Servers:
