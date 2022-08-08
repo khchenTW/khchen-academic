@@ -30,10 +30,6 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Lectures:
-        
-        * 
-        *
 
   - title: Postdoctoral Researcher 
     company: Design Automation for Embedded Systems, Technische Universität Dortmund
@@ -43,10 +39,6 @@ experience:
     date_start: '2019-06-01'
     date_end: '2021-08-31'
     description: |2-
-        Lectures:
-        
-        * 
-        *
 
   - title: Research Associate
     company:  Design Automation for Embedded Systems, Technische Universität Dortmund 
@@ -56,10 +48,6 @@ experience:
     date_start: '2014-03-01'
     date_end: '2019-05-31'
     description: |2-
-        Projects:
-        
-        * 
-        * 
 
   - title: Research Associate
     company: Micro Hardware Technologies for Automation, Karlsruhe Institute of Technology (KIT)
@@ -69,9 +57,6 @@ experience:
     date_start: '2013-03-01'
     date_end: '2014-02-28'
     description: |2-
-        Projects:
-        
-        * 
 
 design:
   columns: '2'
