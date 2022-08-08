@@ -1,15 +1,11 @@
 ---
-abstract: >-
-  For cyber-physical systems, real-time virtualization optimizes the hardware
-  utilization by consolidating multiple systems into the same platform, while
-  satisfying the timing constraints of their real-time tasks. This paper
+abstract: For cyber-physical systems, real-time virtualization optimizes the
+  hardware utilization by consolidating multiple systems into the same platform,
+  while satisfying the timing constraints of their real-time tasks. This paper
   considers virtualization based on unikernels, i.e., single address space
   kernels usually constructed by using library operating systems. Each unikernel
   is a guest operating system in the virtualization and hosts a single real-time
   task.
-
-
-  We consider deferrable servers in the virtualization platform to schedule the unikernel-based guest operating systems and analyze the worst-case response time of a sporadic real-time task under such a virtualization architecture. Throughout synthesized tasksets, we empirically show that our analysis outperforms the restated analysis derived from the state-of-the-art, which is based on Real-Time Calculus. Furthermore, we provide insights on implementation-specific issues and offer evidence that the proposed scheduling architecture can be effectively implemented on top of the Xen hypervisor while incurring acceptable overhead.
 slides: ""
 url_pdf: ""
 publication_types:
@@ -45,3 +41,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+We consider deferrable servers in the virtualization platform to schedule the unikernel-based guest operating systems and analyze the worst-case response time of a sporadic real-time task under such a virtualization architecture. Throughout synthesized tasksets, we empirically show that our analysis outperforms the restated analysis derived from the state-of-the-art, which is based on Real-Time Calculus. Furthermore, we provide insights on implementation-specific issues and offer evidence that the proposed scheduling architecture can be effectively implemented on top of the Xen hypervisor while incurring acceptable overhead.
