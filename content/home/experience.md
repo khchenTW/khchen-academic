@@ -32,8 +32,8 @@ experience:
     description: |2-
         Lectures:
         
-        * Operating systems, TCS/EE bachelor programme
-        * Programming in C, EE bachelor programme
+        * 
+        *
 
   - title: Postdoctoral Researcher 
     company: Design Automation for Embedded Systems, Technische Universität Dortmund
@@ -45,13 +45,8 @@ experience:
     description: |2-
         Lectures:
         
-        * Real-Time Operating Systems Design and Implementation
-        * Cyber-Physical System Fundamentals        
-       
-       Projects:
-        
-        * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
-        * DFG Project: Non-Volatile One Memory Architecture (NVM-OMA)
+        * 
+        *
 
   - title: Research Associate
     company:  Design Automation for Embedded Systems, Technische Universität Dortmund 
@@ -63,8 +58,8 @@ experience:
     description: |2-
         Projects:
         
-        * Collaborative Research Center (SFB 876): Providing Information by Resource-Constrained
-        * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded System
+        * 
+        * 
 
   - title: Research Associate
     company: Micro Hardware Technologies for Automation, Karlsruhe Institute of Technology (KIT)
@@ -76,7 +71,7 @@ experience:
     description: |2-
         Projects:
         
-        * Priority Program (SPP 1500) : Dependable Embedded Systems: Generating and Executing Dependable Application Software on UnReliable Embedded Systems
+        * 
 
 design:
   columns: '2'
