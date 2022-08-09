@@ -1,6 +1,6 @@
 ---
-title: "Project-based CPS education: A case study of an autonomous driving
-  student project"
+title: "Project-based CPS education: A Case Study of an Autonomous Driving
+  Student Project"
 publication_types:
   - "2"
 authors:
