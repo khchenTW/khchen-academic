@@ -2,7 +2,6 @@
 title: Evaluation framework for self-suspending task systems
 publication_types:
   - "1"
-  - "5"
 authors:
   - Georg von der Brüggen
   - Milad Nayebi
