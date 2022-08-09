@@ -3,7 +3,6 @@ title: Stack Usage Analysis for Efficient Wear Leveling in Non-Volatile Main
   Memory Systems
 publication_types:
   - "1"
-  - "5"
 authors:
   - Christian Hakert
   - Mikail Yayla
@@ -17,8 +16,8 @@ authors:
   - Hussam Amrouch
   - Jörg Henkel
 doi: 10.1109/MLCAD48534.2019.9142113
-publication: 9 ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
-publication_short: 9 ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
+publication: ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
+publication_short: ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
 abstract: Emerging non-volatile memory (NVM) technologies, such as Phase Change
   Memory (PCM), have been considered as a replacement for DRAM and storage due
   to their low power consumption, fast access speed, and low unit cost. Even so,
