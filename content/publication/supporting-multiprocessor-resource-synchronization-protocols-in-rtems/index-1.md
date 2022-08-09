@@ -9,7 +9,7 @@ authors:
   - Jan Viktor Hafemeister
   - Jian-Jia Chen
   - Kuan-Hsun Chen
-doi: arXiv:2104.06366
+doi: 10.48550/arXiv.2104.06366
 publication: arXiv preprint arXiv:2104.06366
 publication_short: arXiv preprint arXiv:2104.06366
 abstract: When considering recurrent tasks in real-time systems, concurrent
