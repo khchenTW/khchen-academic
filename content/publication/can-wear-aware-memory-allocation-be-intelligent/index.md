@@ -2,7 +2,6 @@
 title: Can wear-aware memory allocation be intelligent?
 publication_types:
   - "1"
-  - "5"
 authors:
   - Christian Hakert
   - Kuan-Hsun Chen
