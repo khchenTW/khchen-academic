@@ -1,7 +1,7 @@
 ---
 title: "Renovation of EdgeCloudSim: An Efficient Discrete-Event Approach"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Raphael Freymann
   - Junjie Shi
