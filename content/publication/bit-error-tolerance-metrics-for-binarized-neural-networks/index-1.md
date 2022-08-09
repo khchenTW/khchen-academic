@@ -1,7 +1,7 @@
 ---
 title: Bit Error Tolerance Metrics for Binarized Neural Networks
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Sebastian Buschjäger
   - Jian-Jia Chen
