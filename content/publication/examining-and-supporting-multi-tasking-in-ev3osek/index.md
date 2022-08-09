@@ -2,7 +2,6 @@
 title: Examining and Supporting Multi-Tasking in EV3OSEK
 publication_types:
   - "1"
-  - "5"
 authors:
   - Nils Hölscher
   - Kuan-Hsun Chen
@@ -30,5 +29,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2018-01-01T17:09:57.472Z
+date: 2018-07-03T16:09:57.472Z
 ---
