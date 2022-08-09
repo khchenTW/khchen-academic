@@ -27,7 +27,7 @@ abstract: Steady deployment of byte addressable non-volatile memories (NVMs) as
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-08-18T09:34:26.372Z
