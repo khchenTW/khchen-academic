@@ -24,5 +24,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: https://hal.archives-ouvertes.fr/hal-01438843
 date: 2016-11-19T17:19:12.571Z
 ---
