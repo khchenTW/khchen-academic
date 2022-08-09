@@ -1,7 +1,7 @@
 ---
 title: Supporting multiprocessor resource synchronization protocols in RTEMS
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Junjie Shi
   - Jan Duy Thien Pham
