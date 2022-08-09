@@ -1,14 +1,16 @@
 ---
 title: On the Formalism and Properties of Timing Analyses in Real-Time Embedded
   Systems
+subtitle: ""
 publication_types:
-  - "5"
+  - "6"
 authors:
   - Jian-Jia Chen
   - Wen-Hung Huang
   - Georg von der Brüggen
   - Kuan-Hsun Chen
   - Niklas Ueter
+doi: 10.1007/978-3-030-47487-4_4
 publication: A Journey of Embedded and Cyber-Physical Systems
 publication_short: A Journey of Embedded and Cyber-Physical Systems
 abstract: >-
@@ -18,7 +20,7 @@ abstract: >-
   processing systems heavily interact with the physical world. Cyber-physical
   systems are integrations of computation, networking, and physical processes to
   achieve high stability, performance, reliability, robustness, and efficiency
-  [26]. A cyberphysical system continuously monitors and affects the physical
+  [26]. A cyber-physical system continuously monitors and affects the physical
   environment which also interactively imposes feedback to the information
   processing system. The applications of CPS include healthcare, automotive
   systems, aerospace, power grids, water distribution, disaster recovery, etc.
