@@ -1,13 +1,16 @@
 ---
 title: Compensate or ignore? Meeting control robustness requirements through
   adaptive soft-error handling
+subtitle: presented in LCTES'16
 publication_types:
   - "2"
+  - "1"
 authors:
   - Kuan-Hsun Chen
   - Björn Bönninghoff
   - Jian-Jia Chen
   - Peter Marwedel
+doi: 10.1145/2980930.2907952
 publication: ACM SIGPLAN Notices
 publication_short: ACM SIGPLAN Notices
 abstract: To avoid catastrophic events like unrecoverable system failures on
