@@ -1,7 +1,7 @@
 ---
 title: Dependable Software Generation and Execution on Embedded Systems
 publication_types:
-  - "5"
+  - "6"
 authors:
   - Florian Kriebel
   - Kuan-Hsun Chen
@@ -9,6 +9,7 @@ authors:
   - Jörg Henkel
   - Jian-Jia Chen
   - Muhammad Shafique
+doi: 10.1007/978-3-030-52017-5_6
 publication: Dependable Embedded Systems
 publication_short: Dependable Embedded Systems
 abstract: An overview of the chapter structure and the connection of the
@@ -29,7 +30,7 @@ abstract: An overview of the chapter structure and the connection of the
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-01-01T16:18:45.301Z
