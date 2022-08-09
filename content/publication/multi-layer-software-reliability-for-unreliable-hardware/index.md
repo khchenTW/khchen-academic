@@ -2,7 +2,7 @@
 title: Multi-layer software reliability for unreliable hardware
 publication_types:
   - "2"
-author_notes:
+authors:
   - Muhammad Shafique
   - Philip Axer
   - Christoph Borchert
@@ -19,6 +19,8 @@ author_notes:
   - Semeen Rehman
   - Florian Schmoll
   - Olaf Spinczyk
+author_notes: []
+doi: 10.1515/itit-2014-1081
 publication: it-Information Technology
 publication_short: it-Information Technology
 abstract: This paper presents a multi-layer software reliability approach that
