@@ -1,7 +1,7 @@
 ---
 title: FeFET-based Binarized Neural Networks Under Temperature-dependent Bit Errors
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Mikail Yayla
   - Sebastian Buschjager
