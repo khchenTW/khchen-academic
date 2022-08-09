@@ -6,8 +6,8 @@ authors:
   - Kuan-Hsun Chen
   - Georg Von Der Brüggen
   - Jian-Jia Chen
-publication: WMC 2016
-publication_short: WMC 2016
+publication: Workshop on Mixed Criticality Systems
+publication_short: Workshop on Mixed Criticality Systems
 abstract: Real-time operating systems are not only used in embedded real-time
   systems but also useful for the simulation and validation of those systems.
   During the evaluation of our paper about Systems with Dynamic Real-Time
