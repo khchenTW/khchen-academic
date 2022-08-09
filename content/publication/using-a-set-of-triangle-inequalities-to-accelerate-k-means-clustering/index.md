@@ -7,8 +7,8 @@ authors:
   - Kuan-Hsun Chen
   - Jian-Jia Chen
 doi: 10.1007/978-3-030-60936-8_23
-publication: International Conference on Similarity Search and Applications
-publication_short: International Conference on Similarity Search and Applications
+publication: International Conference on Similarity Search and Applications (SISAP)
+publication_short: International Conference on Similarity Search and Applications (SISAP)
 abstract: The k-means clustering is a well-known problem in data mining and
   machine learning. However, the de facto standard, i.e., Lloyd’s k-mean
   algorithm, suffers from a large amount of time on the distance calculations.
