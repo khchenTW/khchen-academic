@@ -9,5 +9,6 @@ title: Biography
 design:
   background:
     image: ""
-    color: rgba(241, 72, 39, 0.5)
+    color: rgba(241, 72, 39, 0.34)
+    gradient_start: rgba(234, 121, 121, 0.34)
 ---
