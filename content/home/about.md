@@ -9,4 +9,5 @@ title: Biography
 design:
   background:
     image: ""
+    color: rgba(241, 72, 39, 0.5)
 ---
