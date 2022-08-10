@@ -6,13 +6,12 @@ weight: 130
 title: Contact
 subtitle: null
 content:
-
   autolink: true
   directions: Zilverling Building, Office 5037
   address:
     street: Hallenweg 19
-    city: Enschede 
-    postcode: "7522NH"
+    city: Enschede
+    postcode: 7522NH
     country: The Netherlands
     country_code: NL
   coordinates:
@@ -22,5 +21,5 @@ content:
 design:
   columns: "2"
   background:
-    color: rgba(205, 55, 55, 0.69)
+    color: rgba(205, 55, 55, 0.46)
 ---
