@@ -15,7 +15,7 @@ featured: true
 tags:
   - ETAST
 image:
-  filename: https://scontent-frt3-2.xx.fbcdn.net/v/t39.30808-6/297110613_10218143926183584_452434191210458660_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=XWcVaRI4tjgAX_scNYv&_nc_ht=scontent-frt3-2.xx&oh=00_AT_IzZvth5zludIdaW1csHRXHT2datQg8w6_zheRHb7w8A&oe=62F91E8B
+  filename: 297110613_10218143926183584_452434191210458660_n.jpg
   focal_point: Smart
   preview_only: false
 ---
