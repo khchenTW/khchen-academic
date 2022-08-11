@@ -2,14 +2,14 @@
 title: Call for participation!
 subtitle: European Taiwanese Conference for Science and Technology
 date: 2022-08-11T13:18:06.567Z
-summary: |-
-  ETCST 2022
+summary: >-
+  1st European Taiwanese Conference for Science and Technology 2022\
 
-  17-18 September 2022 / Berlin / Germany
+  (2022 歐洲臺灣學人科技研討會暨駐德國科技組海外學術研討會)\
 
-  1st European Taiwanese Conference for Science and Technology
+  17-18 September 2022 / Berlin / Germany\
 
-  (2022 歐洲臺灣學人科技研討會暨駐德國科技組海外學術研討會)
+  [https://eu-tw-sci-tech.org/1st-conference/](https://eu-tw-sci-tech.org/1st-conference/?fbclid=IwAR1oXCYgQQQcvFxkrGdYAYdlpK-urDq0mJksG1CncOs_bvoDyt0t1XmGgxs)
 draft: false
 featured: true
 tags:
