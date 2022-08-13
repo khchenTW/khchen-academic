@@ -12,7 +12,8 @@ authors:
   - Jian-Jia Chen
 doi: 10.1109/TCAD.2022.3197501
 publication: Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-publication_short: Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+publication_short: Transactions on Computer-Aided Design of Integrated Circuits
+  and Systems (TCAD), presented in EMSOFT'22
 abstract: "To avoid race conditions and ensure data integrity, resource
   synchronization protocols have been widely studied in real-time systems for
   decades, providing systematical policies to guarantee a bound on priority
