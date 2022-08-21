@@ -22,21 +22,19 @@ Page limit: 10 two-column pages (not including references) in ACM conference for
 
 Best papers and best student papers awards will be presented at the conference, along with an award for the best presentation.
 
-\---------
-
 **Important dates**
 
 First round         
 
-Abstract submission: Sept. 18th, 2022
-Paper submission: Sept. 22th, 2022
-Notification: Nov. 10th, 2022
+* Abstract submission: Sept. 18th, 2022
+* Paper submission: Sept. 22th, 2022
+* Notification: Nov. 10th, 2022
 
 Second round   
 
-Abstract submission: Jan. 13th, 2023  
-Paper submission: Jan. 17th, 2023  
-Notification: Feb. 25th, 2023
+* Abstract submission: Jan. 13th, 2023  
+* Paper submission: Jan. 17th, 2023  
+* Notification: Feb. 25th, 2023
 
 Submission link: *<https://easychair.org/conferences/?conf=rtns2023>*
 
