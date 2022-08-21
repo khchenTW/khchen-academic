@@ -1,13 +1,14 @@
 ---
 title: Kuan-Hsun Chen
-role: Assistant Professor
+role: Assistant Professor of Embedded Systems
 avatar_filename: avatar.jpg
 bio: As a computer scientist, I deeply believe software can help everything.
 interests:
   - Real-Time Embedded Systems
-  - Non-volatile Memories
-  - Hardware-Aware Software Automation
+  - Non-Volatile Memories
+  - Software Automation
   - Dependable Computing
+  - Cyber-Physical Systems
 social:
   - icon: google-scholar
     icon_pack: ai
