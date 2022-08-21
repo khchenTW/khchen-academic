@@ -1,9 +1,7 @@
 ---
 title: Call for Papers in RTNS'23
-subtitle: RTNS is a friendly and inclusive conference with a great sense of
-  community that presents excellent opportunities for discussion and
-  collaboration. Its 31st occurrence will be outside France, with two deadlines
-  (details below).
+subtitle: "RTNS's 31st occurrence will be outside France! See the website:
+  https://rtns2023.cs.tu-dortmund.de/"
 date: 2022-08-21T09:35:51.971Z
 draft: false
 featured: false
@@ -16,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This year, RTNS 2023 adopts a **double submission model**, with two rounds.
+This year, [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) adopts a **double submission model**, with two rounds.
 
 Submissions done at the first round may be: Rejected (no re-submission possible to the second round), Accepted, or Under major revision (may be re-submitted in the second round and will be evaluated again by the same reviewers). While submissions done in the second round may be only accepted or rejected.
 
