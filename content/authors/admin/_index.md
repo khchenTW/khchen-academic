@@ -1,7 +1,7 @@
 ---
 title: Kuan-Hsun Chen
 role: Assistant Professor
-avatar_filename: ""
+avatar_filename: compress3.jpeg
 bio: As a computer scientist, I deeply believe software can help everything.
 interests:
   - Real-Time Embedded Systems
