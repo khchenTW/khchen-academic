@@ -9,6 +9,8 @@ authors:
   - Georg Von Der Brüggen
   - and Jian-Jia Chen
 doi: ""
+publication: IEEE Real-Time Systems Symposium (RTSS)
+publication_short: ""
 abstract: "In soft real-time systems, tasks may occasionally miss their
   deadlines. This possibility has triggered research on probabilistic timing
   analysis for the execution time of a single program and probabilistic response
