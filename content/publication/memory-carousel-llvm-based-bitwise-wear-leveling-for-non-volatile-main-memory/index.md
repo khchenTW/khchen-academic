@@ -19,7 +19,7 @@ abstract: Emerging non-volatile memory yields, alongside many advantages,
   wear-leveling approaches exist to extend the lifetime of such memories,
   usually a trade-off for the granularity of wear-leveling has to be made. Due
   to iterative write schemes (repeatedly sense and write), wear-out of memory in
-  certain systems is directly dependant on the written bit value and thus can be
+  certain systems is directly dependent on the written bit value and thus can be
   highly imbalanced, requiring dedicated bit-wise wear-leveling. Such a bit-wise
   wear-leveling so far has only been proposed together with a special hardware
   support. However, if no dedicated hardware solutions are available, especially
