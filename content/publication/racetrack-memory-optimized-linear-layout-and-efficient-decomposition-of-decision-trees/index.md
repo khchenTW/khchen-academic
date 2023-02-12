@@ -1,7 +1,7 @@
 ---
 title: Racetrack Memory Optimized Linear Layout and Efficient Decomposition of
   Decision Trees
-subtitle: Just accepted
+subtitle: ""
 publication_types:
   - "2"
 authors:
