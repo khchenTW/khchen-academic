@@ -29,7 +29,7 @@ abstract: >-
 
   In this work, we propose two dynamic (and adaptive) approaches that allow the scheduler to dynamically select execution modes based on the error-history of the past jobs and the actual error probability. We firstly propose a Markov Chain based solution if the error-probability is known and static and secondly a reinforcement learning-based approach that can handle unknown error probabilities. Experimental evaluations show that our approaches outperform the state-of-the-art in most of the evaluated cases in terms of average utilization for each task and the overall utilization for multitask systems.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
