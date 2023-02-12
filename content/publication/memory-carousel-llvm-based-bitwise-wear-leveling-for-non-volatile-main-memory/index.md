@@ -1,7 +1,7 @@
 ---
 title: "Memory Carousel: LLVM-Based Bitwise Wear-Leveling for Non-Volatile Main
   Memory"
-subtitle: Just accepted
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -12,6 +12,7 @@ authors:
   - Lars Bauer
   - Jian-Jia Chen
   - Jörg Henkel
+doi: 10.1109/TCAD.2022.3228897
 publication: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 publication_short: TCAD
 abstract: Emerging non-volatile memory yields, alongside many advantages,
