@@ -1,6 +1,6 @@
 ---
 title: "Critical Instant for Probabilistic Timing Guarantees: Refuted and Revisited"
-subtitle: Just accepted
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Mario Günzel
   - Georg Von Der Brüggen
   - and Jian-Jia Chen
-doi: ""
+doi: 10.1109/RTSS55097.2022.00022
 publication: IEEE Real-Time Systems Symposium (RTSS)
 publication_short: ""
 abstract: "In soft real-time systems, tasks may occasionally miss their
