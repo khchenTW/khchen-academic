@@ -9,6 +9,7 @@ authors:
   - Jian-Jia Chen
   - Kuan-Hsun Chen
 publication: IEEE Real-Time and Embedded Technology and Applications Symposium
+publication_short: RTAS'23
 abstract: >-
   Safety-critical systems are often subjected to transient faults. Since these
   transient faults may lead to soft errors that cause catastrophic consequences,
