@@ -10,8 +10,6 @@ image:
 ---
 Looking for the next venue to present your exciting work? Please consider submitting your work to ECRTS 2023, which will be held on July 11-14, 2023 in Vienna, Austria. 
 
-\----------------Call for Papers---------------- 
-
 Submission deadline: March 1, 2023 (firm) \
 Notification: April 22, 2023 \
 Submission website: [https://hotcrp.ecrts.org/](https://hotcrp.ecrts.org/ "https\://hotcrp.ecrts.org/")
