@@ -40,8 +40,8 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am a tenured assistant professor in the Computer Architecture and Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as an Associate Editor for [the AIMS Applied Computing and Intelligence journal](https://aimspress.com/journal/aci) and Guest Editor for [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/pb-assets/static_journal_pages/tecs/pdf/ACM-TECS-SI-Memory-Storage-1666297738193.pdf), [ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) and [the Journal of Signal Processing Systems](https://www.springer.com/journal/11265). 
+I am a tenured assistant professor in the Computer Architecture for Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as Guest Editor for [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/pb-assets/static_journal_pages/tecs/pdf/ACM-TECS-SI-Memory-Storage-1666297738193.pdf), [ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) and [Spinger Journal of Signal Processing Systems](https://www.springer.com/journal/11265). 
 
-My research interest is very broad, i.e., from algorithm down to compilation. Particularly, I focus on architecture-aware software design methodology and bridge the gap between theory and practice in real-time system software. In my free time, I am also a mentor in Google Summer of Code for RTEMS since 2016. 
+My research interest is very broad, i.e., from algorithm down to compilation. Particularly, I focus on hardware-software co-design automation and bridge the gap between theory and practice in real-time system software. In my free time, I am also a mentor in Google Summer of Code for RTEMS since 2016. 
 
 <!--EndFragment-->
