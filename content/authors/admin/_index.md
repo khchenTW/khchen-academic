@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/kuan-hsun-chen-21bb6167/
 organizations:
-  - name: Computer Architecture and Embedded Systems group at the University of
+  - name: Computer Architecture for Embedded Systems group at the University of
       Twente
     url: https://www.utwente.nl/en/eemcs/caes/
 education:
