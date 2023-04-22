@@ -1,6 +1,6 @@
 ---
 title: Dutch Real-Time Days
-abstract: I am happy to co-organize a Dutch Real-Time Days event together with
+abstract: I am happy to co-organize Dutch Real-Time Days event together with
   real-time systems researchers from TU/e and UvA/TNO. The event was funded
   through a 4TU.NIRICT Call Community Funding, where we invited well-established
   European researchers in the area to share their current work and ideas for
