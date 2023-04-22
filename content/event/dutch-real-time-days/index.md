@@ -21,7 +21,7 @@ tags:
   - Community Building
   - Netherlands
 image:
-  filename: c3d946f2-bf2b-4ce8-ac0e-cfc08c2e9f7b.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
