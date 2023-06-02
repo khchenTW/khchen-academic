@@ -1,5 +1,5 @@
 ---
-title: Keynote in CTHPC 2023 "Good Old Trees along with Emerging Memories"
+title: Keynote in CTHPC 2023
 abstract: In the era of deep-learning, tree-based machine learning models
   continue to be popular in critical domains that require explainability.
   However, several well-known inference libraries still have room for
