@@ -2,7 +2,7 @@
 title: Kuan-Hsun Chen
 role: Assistant Professor
 avatar_filename: compress3.jpeg
-bio: As a computer scientist, I make embedded systems future-proof and future-ready.
+bio: In this era, I make embedded systems future-proof and future-ready.
 interests:
   - Real-Time System Software
   - Non-Volatile Memories
@@ -40,7 +40,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am an assistant professor (tenured) in the Computer Architecture for Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as Guest Editor for [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/pb-assets/static_journal_pages/tecs/pdf/ACM-TECS-SI-Memory-Storage-1666297738193.pdf), [ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) and [Spinger Journal of Signal Processing Systems](https://www.springer.com/journal/11265). 
+I am an assistant professor (tenured) in the Computer Architecture for Embedded Systems (CAES) group at the University of Twente (NL). Currently, I serve as Guest Editor for [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/pb-assets/static_journal_pages/tecs/pdf/ACM-TECS-SI-Memory-Storage-1666297738193.pdf)and [ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps)
 
 My research interest is very broad, i.e., from algorithm down to compilation. Particularly, I focus on hardware-software co-design automation and bridge the gap between theory and practice in real-time system software. In my free time, I am also a mentor in Google Summer of Code for RTEMS since 2016. 
 
