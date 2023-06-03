@@ -27,7 +27,7 @@ url_video: ""
 title: "Unikernel-Based Real-Time Virtualization under Deferrable Servers:
   Analysis and Realization"
 doi: 10.4230/LIPIcs.ECRTS.2022.6
-featured: true
+featured: false
 tags:
   - Open-Access
 projects: []
