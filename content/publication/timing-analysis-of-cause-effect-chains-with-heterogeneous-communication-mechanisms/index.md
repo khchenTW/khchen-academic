@@ -9,6 +9,8 @@ authors:
   - Kuan-Hsun Chen
   - Jian-Jia Chen
 doi: 10.1145/3575757.3593640
+publication: The 31st International Conference on Real-Time Networks and Systems
+publication_short: " RTNS"
 abstract: >-
   Software applications in automotive systems are comprised of communicating
   real-time tasks, described by cause-effect chains. To guarantee functional
