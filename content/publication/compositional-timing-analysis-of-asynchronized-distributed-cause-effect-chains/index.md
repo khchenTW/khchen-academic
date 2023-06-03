@@ -10,6 +10,8 @@ authors:
   - Marco Dürr
   - Jian-Jia Chen
 doi: 10.1145/3587036
+publication: ACM Transactions on Embedded Computing Systems
+publication_short: TECS
 abstract: Real-time systems require the formal guarantee of timing constraints,
   not only for the individual tasks but also for the end-to-end latency of data
   flows. The data flow among multiple tasks, e.g., from sensors to actuators, is
