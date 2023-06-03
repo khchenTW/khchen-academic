@@ -4,8 +4,7 @@ title: Rapid NVM Simulation and Analysis on Single Bit Granularity Featuring
 publication_types:
   - "1"
 authors:
-  - ation and Analysis on Single Bit Granularity Featuring Gem5 and NVMain
-    Authors Nils Hölscher
+  - Nils Hölscher
   - Minh Duy Truong
   - Christian Hakert
   - Tristan Seidl
