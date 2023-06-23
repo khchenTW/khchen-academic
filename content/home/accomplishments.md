@@ -11,6 +11,14 @@ subtitle: null
 item:
   - certificate_url: 
     date_end: ""
+    date_start: 2023-06-23
+    description: "This course is to deepen and broaden the knowledge of ASCI PhD students in real-time systems."
+    organization: ASCI Research School
+    organization_url: 
+    title: Design and Implementation of Real-Time Systems
+    url: "https://asci.tudelft.nl/courses/"
+  - certificate_url: 
+    date_end: ""
     date_start: 2022-06-30
     description: "We aim at creating a sustainable community on real-time systems in NL to combine its research forces, stimulate collaborations cohesively, and favor its outreach internationally."
     organization: 4TU.NIRICT Community Funding
