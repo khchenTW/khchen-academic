@@ -19,6 +19,14 @@ item:
     url: "https://www.ecrts.org/"
   - certificate_url: 
     date_end: ""
+    date_start: 2023-07-14
+    description: ""
+    organization: Euromicro Conference on Real-Time Systems (ECRTS'23)
+    organization_url: 
+    title: Social Media Chair
+    url: "https://www.ecrts.org/"
+  - certificate_url: 
+    date_end: ""
     date_start: 2023-06-23
     description: "This course is to deepen and broaden the knowledge of ASCI PhD students in real-time systems."
     organization: ASCI Research School
