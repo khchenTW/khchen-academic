@@ -8,6 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Due to Covid, virtual meeting have become a new norm, which is also applicable to the technical program committee (TPC) meeting. H﻿owever, ASP-DAC, as one of the last long design automation conferences, this year requires that every program committee member physically attend the Paper Selection Meeting -- like in the good old days.
+Amidst the Covid 19 virtual meetings have become the norm, in various fields, including technical program committee (TPC) gatherings. However ASP DAC, a design automation conference took an approach this year by insisting on physical attendance of every program committee member at the Paper Selection Meeting. Reminiscent of a time long gone.
 
-I felt honored to be invited to participate in the TPC meeting of ASP-DAC in Taiwan. The organization is really amazing, and it is good to meet different domain experts in person.
+I felt sincerely honored to receive an invitation to participate in the TPC meeting of ASP DAC in Taiwan. The events organization was truly impressive. Having the opportunity to personally interact with experts, from domains was incredibly enriching.
