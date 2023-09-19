@@ -24,7 +24,7 @@ abstract: "In the near future, the development of autonomous driving will get
   the simulation tools of robotics, communication and control namely ROS2,
   OMNeT++, and MATLAB to evaluate cooperative driving scenarios. "
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
