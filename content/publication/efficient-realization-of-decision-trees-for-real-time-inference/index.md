@@ -1,6 +1,6 @@
 ---
 title: Efficient Realization of Decision Trees for Real-Time Inference
-subtitle: Accepted on December 2021
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -26,7 +26,7 @@ abstract: "For timing-sensitive edge applications, the demand for efficient
   more careful memory layout to improve caching behavior and maximize
   performance. "
 draft: false
-featured: false
+featured: true
 tags:
   - Tree
 image:
