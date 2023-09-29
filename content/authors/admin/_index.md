@@ -5,9 +5,9 @@ avatar_filename: compress3.jpeg
 bio: In this era, I make embedded systems future-proof and future-ready.
 interests:
   - Real-Time System Software
-  - Non-Volatile Memories
+  - Emerging Memories
   - Software Automation
-  - Dependable Computing
+  - Dependable Computing Systems
 social:
   - icon: google-scholar
     icon_pack: ai
