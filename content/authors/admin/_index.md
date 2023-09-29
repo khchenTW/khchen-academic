@@ -44,6 +44,6 @@ I am an assistant professor (tenured) in the Computer Architecture for Embedded
 
 My research interests span a wide spectrum, ranging from intricate algorithms to detailed compilation processes. Particularly, I focus on hardware-software co-design automation and bridge the gap between theory and practice in real-time system software. In addition to my academic pursuits, I am deeply committed to mentorship, actively engaging in programs such as Google and ESA Space Summer of Code. Furthermore, I am passionate about contributing to open-source development, with a particular emphasis on RTEMS. This multifaceted dedication reflects my enthusiasm for both theoretical exploration and hands-on implementation in the ever-evolving landscape of technology.
 
-Download my CV (updated on Sep 2023)
+Download my [CV](https://khchen.eu/assets/media/cv_khchen.pdf) (updated on Sep 2023) 
 
 <!--EndFragment-->
