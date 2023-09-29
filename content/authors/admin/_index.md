@@ -40,7 +40,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am an assistant professor (tenured) in the Computer Architecture for Embedded Systems (CAES) group at the University of Twente (NL). Currently, I am serving as Guest Editor for [ACM Transactions on Embedded Computing Systems](https://dl.acm.org/pb-assets/static_journal_pages/tecs/pdf/ACM-TECS-SI-Memory-Storage-1666297738193.pdf) and [ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps)
+I am an assistant professor (tenured) in the Computer Architecture for Embedded Systems (CAES) group at the University of Twente (NL). Previously, I was a Postdoc in Design Automation for Embedded Systems Group at TU Dortmund, Germany from 2019 to 2021. I did my PhD in Computer Science between November 2014 and May 2019 with the highest distinction in TU Dortmund, Germany. Before my PhD, I received my bachelor and master degrees in "Interdisciplinary Program of Humanities and Social Sciences" (2011) and Computer Science (2013) respectively, from National Tsing-Hua University in Taiwan. 
 
 My research interests span a wide spectrum, ranging from intricate algorithms to detailed compilation processes. Particularly, I focus on hardware-software co-design automation and bridge the gap between theory and practice in real-time system software. In addition to my academic pursuits, I am deeply committed to mentorship, actively engaging in programs such as Google and ESA Space Summer of Code. Furthermore, I am passionate about contributing to open-source development, with a particular emphasis on RTEMS. This multifaceted dedication reflects my enthusiasm for both theoretical exploration and hands-on implementation in the ever-evolving landscape of technology.
 
