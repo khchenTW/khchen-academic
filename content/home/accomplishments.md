@@ -8,7 +8,7 @@ item:
     description: ""
     organization: Euromicro Conference on Real-Time Systems (ECRTS'23)
     organization_url: null
-    title: Best Paper Award and Outstanding Paper Award for "On the Equivalence of
+    title: Best Paper Award for "On the Equivalence of
       Maximum Reaction Time and Maximum Data Age for Cause-Effect Chains"
     url: https://www.ecrts.org/
   - certificate_url: null
@@ -38,6 +38,15 @@ item:
     organization_url: null
     title: Dutch Real-Time Systems
     url: https://www.4tu.nl/nirict/Projects/All_projects/Dutch%20Real-Time%20Systems%20Community/
+  - certificate_url: null
+    date_end: ""
+    date_start: 2022-06-27
+    description: The board of 4TU.Education declares that I have attained the
+    required level for the pedagogical competencies of the University Teaching Qualification.
+    organization: 4TU.Education
+    organization_url: null
+    title: 4TU.University Teaching Qualification (UTQ)
+    url: ""    
   - certificate_url: null
     date_end: ""
     date_start: 2022-05-01
