@@ -41,8 +41,7 @@ item:
   - certificate_url: null
     date_end: ""
     date_start: 2022-06-27
-    description: The board of 4TU.Education declares that I have attained the
-    required level for the pedagogical competencies of the University Teaching Qualification.
+    description: The board of 4TU.Education declares that I have attained the required level for the pedagogical competencies of the University Teaching Qualification.
     organization: 4TU.Education
     organization_url: null
     title: 4TU.University Teaching Qualification (UTQ)
