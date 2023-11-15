@@ -1,6 +1,6 @@
 ---
 title: Two papers accepted in DATE 2024
-date: 2023-11-15T11:00:43.422Z
+date: 2023-11-15T11:31:09.306Z
 draft: false
 featured: false
 image:
