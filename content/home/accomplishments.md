@@ -24,7 +24,7 @@ item:
     description: ""
     organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'24)
     organization_url: null
-    title: Publicity Chair
+    title: Web Chair
     url: https://2024.rtas.org/
   - certificate_url: null
     date_end: ""
