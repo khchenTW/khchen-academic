@@ -44,6 +44,6 @@ I am an assistant professor (tenured) in the Computer Architecture for Embedded
 
 My research interests span a wide spectrum, ranging from intricate algorithms to detailed compilation processes. Particularly, I focus on hardware-software co-design automation and bridge the gap between theory and practice in real-time system software. In addition to my academic pursuits, I am committed to mentorship, engaging in programs such as Google and ESA Space Summer of Code. Furthermore, I am passionate about contributing to open-source development, with a particular emphasis on RTEMS. This multifaceted dedication reflects my enthusiasm for both theoretical exploration and hands-on implementation in the ever-evolving landscape of technology.
 
-Download my [CV](https://surfdrive.surf.nl/files/index.php/s/8vOjxDqp4eN1usB) (updated on Sep 2023) 
+Download my [CV](https://surfdrive.surf.nl/files/index.php/s/H3rQJsK2FXrV6OA) (updated on Jan. 2024)
 
 <!--EndFragment-->
