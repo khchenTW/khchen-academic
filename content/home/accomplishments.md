@@ -4,44 +4,12 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
-    date_start: 2023-11-01
-    description: ""
-    organization: IEEE Real-Time Systems Symposium (RTSS'23)
-    organization_url: null
-    title: Video/Multimedia Chair
-    url: https://2023.rtss.org/
-  - certificate_url: null
-    date_end: ""
-    date_start: 2023-09-20
-    description: ""
-    organization: Euromicro Conference on Real-Time Systems (ECRTS'24)
-    organization_url: null
-    title: Publicity Chair
-    url: https://www.ecrts.org/
-  - certificate_url: null
-    date_end: ""
-    date_start: 2023-07-17
-    description: ""
-    organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'24)
-    organization_url: null
-    title: Web Chair
-    url: https://2024.rtas.org/
-  - certificate_url: null
-    date_end: ""
     date_start: 2023-07-14
     description: ""
     organization: Euromicro Conference on Real-Time Systems (ECRTS'23)
     organization_url: null
     title: Best Paper Award for "On the Equivalence of
       Maximum Reaction Time and Maximum Data Age for Cause-Effect Chains"
-    url: https://www.ecrts.org/
-  - certificate_url: null
-    date_end: ""
-    date_start: 2023-07-14
-    description: ""
-    organization: Euromicro Conference on Real-Time Systems (ECRTS'23)
-    organization_url: null
-    title: Social Media Chair
     url: https://www.ecrts.org/
   - certificate_url: null
     date_end: ""
