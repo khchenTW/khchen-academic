@@ -4,10 +4,11 @@ role: Assistant Professor
 avatar_filename: compress3.jpeg
 bio: In this era, I make computing systems future-proof and future-ready.
 interests:
+  - Cyber-Physical Systems
   - Real-Time System Software
   - Emerging Memories
   - Software Automation
-  - Dependable Computing Systems
+  - Dependable Computing
 social:
   - icon: google-scholar
     icon_pack: ai
