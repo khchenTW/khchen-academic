@@ -4,22 +4,29 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2024-07-02
+    description: ""
+    organization: Young Academy Twente (YAT)
+    organization_url: null
+    title: Appointed Member in Young Academy Twente (YAT)
+    url: https://www.utwente.nl/en/news-events/corporate-announcements/2024/6/1591907/young-academy-twente-appoints-eleven-new-members-for-2025
+  - certificate_url: null
+    date_end: ""
     date_start: 2023-07-14
     description: ""
     organization: Euromicro Conference on Real-Time Systems (ECRTS'23)
     organization_url: null
     title: Best Paper Award for "On the Equivalence of
-      Maximum Reaction Time and Maximum Data Age for Cause-Effect Chains"
+      Maximum Reaction Time and Maximum Data Age for Cause-Effect Chains
     url: https://www.ecrts.org/
   - certificate_url: null
-    date_end: ""
+    date_end: 2024-06-14
     date_start: 2023-06-23
-    description: This course is to deepen and broaden the knowledge of ASCI PhD
-      students in real-time systems.
+    description: The course is designed to provide theoretical and practical insights using a combination of lectures and hand-on labs in which attendees will learn to develop a real-time application on top of a widespread real-time operating system. Throughout the lectures and labs, the students will learn the relation between applications’ timing properties and the underlying system software components. Within the labs, the students will be guided to program a wearable device, e.g., smartwatch, and implement alternative scheduling strategies as well as low-level primitives, resulting in different timing behaviors.
     organization: ASCI Research School
     organization_url: null
     title: Design and Implementation of Real-Time Systems
-    url: https://asci.tudelft.nl/courses/
+    url: https://asci.school/project/asci-a31-design-and-implementation-of-real-time-systems-course/
   - certificate_url: null
     date_end: ""
     date_start: 2022-06-30
