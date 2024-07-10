@@ -10,7 +10,7 @@ abstract: >-
   This agent is designed to select appropriate execution versions for each task, ensuring redundancy to guard against soft errors. Our approach leverages the Markov Decision Process (MDP) framework, allowing the RL agent to learn optimal policies without requiring labeled data, making it well-suited for dynamic environments. In summary, our experience shows that RL can effectively handle the dynamic and complex nature of real-time scheduling, offering a promising direction for future research in this domain. 
 location: Lille, France
 date: 2024-07-09T13:15:00.000Z
-date_end: 2024-07-09T01:30:00.000Z
+date_end: 2024-07-09T13:30:00.000Z
 all_day: false
 event: ML-RT Agenda
 event_url: https://www.ecrts.org/ml-rt-agenda-workshop/
