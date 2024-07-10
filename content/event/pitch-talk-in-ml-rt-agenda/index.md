@@ -18,7 +18,7 @@ publishDate: 2024-07-10T09:04:37.992Z
 draft: false
 featured: false
 image:
-  filename: presentation.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
