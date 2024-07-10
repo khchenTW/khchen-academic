@@ -18,7 +18,7 @@ publishDate: 2024-07-10T09:04:37.992Z
 draft: false
 featured: false
 image:
-  filename: 449957900_8277173498960984_2064187236743537779_n.jpg
+  filename: presentation.jpg
   focal_point: Smart
   preview_only: false
 ---
