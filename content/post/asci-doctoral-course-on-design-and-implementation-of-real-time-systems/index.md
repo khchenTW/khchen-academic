@@ -5,7 +5,7 @@ date: 2024-06-25T21:03:38.249Z
 draft: false
 featured: false
 image:
-  filename: ad7e69ab-faea-4981-8bf1-95acf15642ae.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
