@@ -1,5 +1,5 @@
 ---
-title: Selected as a member in Young Academy Twente (YAT)
+title: Selected as an appointed member in Young Academy Twente (YAT)
 subtitle: ""
 date: 2024-06-25T21:11:01.068Z
 draft: false
