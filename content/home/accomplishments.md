@@ -3,7 +3,7 @@ widget: accomplishments
 date_format: Jan 2006
 item:
   - certificate_url: null
-    date_end: 2024-07-12
+    date_end: ""
     date_start: 2024-07-09
     description: ""
     organization: Euromicro
@@ -11,12 +11,12 @@ item:
     title: Publicity Chair
     url: https://www.ecrts.org/organizers/
   - certificate_url: null
-    date_end: 2024-07-09
+    date_end: ""
     date_start: 2024-07-08
     description: ""
     organization: Annual workshop on Operating Systems Platforms for Embedded Real-Time applications (OSPERT)
     organization_url: null
-    title: Co-Chair
+    title: Program Co-Chair
     url: https://www.ecrts.org/workshops/ospert24/
   - certificate_url: null
     date_end: ""
