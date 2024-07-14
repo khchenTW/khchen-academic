@@ -1,5 +1,5 @@
 ---
-title: Co-chair of OSPERT 2024
+title: Reflections on OSPERT 2024
 date: 2024-07-14T07:52:09.193Z
 draft: false
 featured: false
