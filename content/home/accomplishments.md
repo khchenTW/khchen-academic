@@ -6,7 +6,7 @@ item:
     date_end: ""
     date_start: 2024-07-09
     description: ""
-    organization: Euromicro
+    organization: Euromicro Conference on Real-Time Systems
     organization_url: https://ecrts.org/
     title: Publicity Chair
     url: https://www.ecrts.org/organizers/
