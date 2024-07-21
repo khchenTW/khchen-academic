@@ -11,8 +11,8 @@ authors:
   - Kuan-Hsun von der Brüggen
   - Jian-Jia Chen
 doi: 10.1145/3609390
-publication: " Transactions on Embedded Computing Systems"
-publication_short: TECS
+publication: ACM Transactions on Embedded Computing Systems
+publication_short: ACM TECS
 abstract: >-
   In many embedded systems, for instance, in the automotive, avionic, or
   robotics domain, critical functionalities are implemented via chains of
