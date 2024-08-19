@@ -9,7 +9,7 @@ authors:
   - Luca Cassano
   - Marco Ottavi
 publication: Design, Automation & Test in Europe Conference & Exhibition
-publication_short: DATE
+publication_short: ""
 abstract: >-
   Evaluating performance metrics in embedded systems poses challenges,
   particularly due to the limited set of
