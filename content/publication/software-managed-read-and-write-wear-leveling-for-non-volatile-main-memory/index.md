@@ -27,7 +27,7 @@ abstract: "In-memory wear-leveling has become an important research field for
   semantics. Therefore different mechanisms are required to handle reads and
   writes on the software level. "
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
