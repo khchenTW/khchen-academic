@@ -4,6 +4,22 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2024-10-02
+    description: ""
+    organization: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
+    organization_url: https://esweek.org/codes-isss/
+    title: Outstanding Reviewer Award
+    url: https://esweek.org/awards-2024/
+  - certificate_url: null
+    date_end: ""
+    date_start: 2024-09-24
+    description: ""
+    organization: Cyber-Physical Systems and Internet-of-Things Week
+    organization_url: https://cps-iot-week2025.ics.uci.edu/
+    title: PhD Forum Co-Chair 
+    url: 
+  - certificate_url: null
+    date_end: ""
     date_start: 2024-07-09
     description: ""
     organization: Euromicro Conference on Real-Time Systems
