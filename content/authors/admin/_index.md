@@ -2,7 +2,7 @@
 title: Kuan-Hsun Chen
 role: Assistant Professor of Computer Engineering
 avatar_filename: avatar.jpg
-bio: In this era, I make computing systems future-proof and future-ready.
+bio: ""
 interests:
   - Cyber-Physical Systems
   - Emerging Memories
