@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
 
-  - title: Assistant Professor (UD2)
+  - title: Assistant Professor (UD2, tenured)
     company: Computer Architecture and Embedded Systems, University of Twente
     company_url: 'https://people.utwente.nl/k.h.chen?tab=about-me'
     company_logo: 

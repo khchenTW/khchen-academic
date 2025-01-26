@@ -4,12 +4,60 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2025-01-08
+    description: ""
+    organization: Annual workshop on Operating Systems Platforms for Embedded Real-Time applications (OSPERT)
+    organization_url: null
+    title: Program Chair
+    url: https://www.ecrts.org/workshops/ospert25/
+  - certificate_url: null
+    date_end: ""
+    date_start: 2025-01-01
+    description: ""
+    organization: IEEE International Conference on Embedded and Real-Time Computing Systems and Applications
+    organization_url: null
+    title: Publicity Co-Chair (Europe)
+    url: https://rtcsa2025.github.io/index.html
+  - certificate_url: null
+    date_end: ""
+    date_start: 2025-07-01
+    description: ""
+    organization: IEEE Real-Time and Embedded Technology and Applications Symposium
+    organization_url: null
+    title: Webchair
+    url: http://2025.rtas.org/
+  - certificate_url: null
+    date_end: ""
+    date_start: 2024-07-01
+    description: ""
+    organization: IEEE Real-Time and Embedded Technology and Applications Symposium
+    organization_url: null
+    title: Webchair
+    url: http://2024.rtss.org/
+  - certificate_url: null
+    date_end: ""
+    date_start: 2025-07-01
+    description: ""
+    organization: IEEE Real-Time Systems Symposium
+    organization_url: null
+    title: Webchair
+    url: http://2024.rtas.org/    
+  - certificate_url: null
+    date_end: ""
     date_start: 2024-10-02
     description: ""
-    organization: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
+    organization: ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
     organization_url: https://esweek.org/codes-isss/
     title: Outstanding Reviewer Award
     url: https://esweek.org/awards-2024/
+    - certificate_url: null
+    date_end: ""
+    date_start: 2024-10-02
+    description: ""
+    organization: ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
+    organization_url: https://esweek.org/codes-isss/
+    title: Submission Chair
+    url: https://esweek.org/codes-isss/
   - certificate_url: null
     date_end: ""
     date_start: 2024-07-09
@@ -81,7 +129,7 @@ item:
     date_end: ""
     date_start: 2021-10-01
     description: ""
-    organization: The IEEE Real-Time Systems Symposium
+    organization: IEEE Real-Time Systems Symposium
     organization_url: http://2021.rtss.org/
     title: Multimedia (A/V) Chair
     url: ""
