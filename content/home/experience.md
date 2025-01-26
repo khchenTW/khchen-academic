@@ -37,7 +37,7 @@ experience:
     company_logo: 
     location: Enschede, The Netherlands
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2024-11-30'
     description: |2-
 
   - title: Postdoctoral Researcher 
