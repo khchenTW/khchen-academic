@@ -20,7 +20,7 @@ abstract: >-
 
   without steep learning curves and support dev containers and readily deployed remote access setups in order to minimize setup overheads. In combination with a collection of teaching assignments dedicated to this platform, we enable low overhead teaching for real-time operating-systems, which allows a focus on the fundamental concepts, escaping infrastructural overheads.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
