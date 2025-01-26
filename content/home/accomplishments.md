@@ -50,7 +50,7 @@ item:
     organization_url: https://esweek.org/codes-isss/
     title: Outstanding Reviewer Award
     url: https://esweek.org/awards-2024/
-    - certificate_url: null
+  - certificate_url: null
     date_end: ""
     date_start: 2024-10-02
     description: ""
