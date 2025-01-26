@@ -23,7 +23,7 @@ abstract: "Modern low power distributed systems tend to integrate machine
   first. We investigate decision trees and develop placement strategies to
   reduce the total number of shifts in RTM. "
 draft: false
-featured: true
+featured: false
 tags:
   - Non-Volatile Memory
   - Decision Trees
