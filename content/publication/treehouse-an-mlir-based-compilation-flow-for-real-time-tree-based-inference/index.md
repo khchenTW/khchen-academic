@@ -8,6 +8,7 @@ authors:
   - Jenq Kuen Lee
   - Kuan-Hsun Chen
 doi: 10.1145/3704727
+publication_short: ACM TECS
 abstract: "Tree-based ensembles stand as the prominent resource-efficient
   approaches for real-time inference. To optimize their performance, researchers
   have developed several solutions to accommodate their unique program
