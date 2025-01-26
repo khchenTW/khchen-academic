@@ -19,7 +19,7 @@ abstract: This special issue offers substantial contributions in several fields,
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2025-01-26T18:19:30.642Z
