@@ -4,12 +4,28 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2025-01-30
+    description: ""
+    organization: IEEE International Conference on Computer Design (ICCD)
+    organization_url: null
+    title: Software Architectures, Compilers, and Tool Chains (SwArch) Track Chair
+    url: https://www.iccd-conf.com/
+  - certificate_url: null
+    date_end: ""
     date_start: 2025-01-08
     description: ""
     organization: Annual workshop on Operating Systems Platforms for Embedded Real-Time applications (OSPERT)
     organization_url: null
     title: Program Chair
     url: https://www.ecrts.org/workshops/ospert25/
+  - certificate_url: null
+    date_end: ""
+    date_start: 2025-01-08
+    description: ""
+    organization: CPS-IoT Week
+    organization_url: null
+    title: PhD Forum Co-Chair
+    url: https://cps-iot-week2025.ics.uci.edu/phd_forum.php
   - certificate_url: null
     date_end: ""
     date_start: 2025-01-01
@@ -22,7 +38,7 @@ item:
     date_end: ""
     date_start: 2025-07-01
     description: ""
-    organization: IEEE Real-Time and Embedded Technology and Applications Symposium
+    organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
     organization_url: null
     title: Webchair
     url: http://2025.rtas.org/
@@ -30,7 +46,7 @@ item:
     date_end: ""
     date_start: 2024-07-01
     description: ""
-    organization: IEEE Real-Time and Embedded Technology and Applications Symposium
+    organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
     organization_url: null
     title: Webchair
     url: http://2024.rtss.org/
