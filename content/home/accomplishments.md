@@ -4,6 +4,14 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2025-06-18
+    description: ""
+    organization: International European Conference on Parallel and Distributed Computing
+    organization_url: null
+    title: Best Paper Nomination for "Wedge-Parallel Triangle Counting for GPUs"
+    url: https://2025.euro-par.org/
+  - certificate_url: null
+    date_end: ""
     date_start: 2025-01-30
     description: ""
     organization: IEEE International Conference on Computer Design (ICCD)
@@ -36,7 +44,7 @@ item:
     url: https://rtcsa2025.github.io/index.html
   - certificate_url: null
     date_end: ""
-    date_start: 2025-07-01
+    date_start: 2024-08-30
     description: ""
     organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
     organization_url: null
@@ -52,7 +60,7 @@ item:
     url: http://2024.rtss.org/
   - certificate_url: null
     date_end: ""
-    date_start: 2025-07-01
+    date_start: 2024-07-01
     description: ""
     organization: IEEE Real-Time Systems Symposium
     organization_url: null
@@ -105,7 +113,7 @@ item:
     organization: Euromicro Conference on Real-Time Systems (ECRTS'23)
     organization_url: null
     title: Best Paper Award for "On the Equivalence of
-      Maximum Reaction Time and Maximum Data Age for Cause-Effect Chains
+      Maximum Reaction Time and Maximum Data Age for Cause-Effect Chains"
     url: https://www.ecrts.org/
   - certificate_url: null
     date_end: 2024-06-14
