@@ -4,7 +4,7 @@ date: 2025-07-04T21:18:44.645Z
 draft: false
 featured: false
 image:
-  filename: bestpresentation.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
