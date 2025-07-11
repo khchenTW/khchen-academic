@@ -29,6 +29,6 @@ A heartfelt thank you to our Technical Program Committee for their dedication an
 * Ning Zhang, Washington University in St. Louis
 * Peter Wägemann, FAU Erlangen-Nürnberg
 
-Looking ahead, OSPERT 2026 will be chaired by [Marion Baumli Sudvarg](https://www.sudvarg.com/) and Antonio Paolillo, who has already done a fantastic job this year as ECRTS General Chair. I’m excited to pass the torch and support them in continuing this tradition.
+Looking ahead, OSPERT 2026 will continuously be chaired by [Marion Baumli Sudvarg](https://www.sudvarg.com/) and Antonio Paolillo (*Vrije Universiteit Brussel*), who has already done a fantastic job this year as ECRTS General Chair. I’m excited to pass the torch and support them in continuing this tradition.
 
 It’s been an honor to serve the OSPERT community—time for me to step down with gratitude and pride. 😊
