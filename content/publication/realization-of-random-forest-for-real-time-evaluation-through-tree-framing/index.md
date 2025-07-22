@@ -35,7 +35,7 @@ abstract: The optimization of learning has always been of particular concern for
   proposed memory layout. Moreover, we find that our implementation outperforms
   sklearn, which was used to train the models by a factor of 1500.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
