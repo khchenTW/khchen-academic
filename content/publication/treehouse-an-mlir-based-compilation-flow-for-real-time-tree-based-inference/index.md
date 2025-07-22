@@ -30,7 +30,7 @@ abstract: "Tree-based ensembles stand as the prominent resource-efficient
   forests achieved performance gains of up to 1.6 × on x86, 2.03 × on ARMv8, and
   2.9 × on RISC-V."
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
