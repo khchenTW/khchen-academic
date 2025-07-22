@@ -44,6 +44,6 @@ I am an assistant professor (UD1, tenured from May 2022) in the [Computer Archi
 
 My research interests span a wide spectrum, ranging from intricate algorithms to detailed compilation processes. Particularly, I focus on system software for dependable computing and emerging memory technologies. In addition to my academic pursuits, I am committed to mentorship, engaging in programs such as Google and ESA Space Summer of Code. Furthermore, I am passionate about contributing to open-source development, with a particular emphasis on RTEMS and [Tl2cgen](https://tl2cgen.readthedocs.io/en/latest/). During my free time, I also provide technical consultancy services to [an indie game design studio](https://da2creative.com/). This multifaceted dedication reflects my enthusiasm for both theoretical exploration and hands-on implementation in the ever-evolving landscape of technology.
 
-Download my [CV](https://surfdrive.surf.nl/files/index.php/s/H3rQJsK2FXrV6OA) (updated on Jan. 2025)
+Download my [CV](https://surfdrive.surf.nl/files/index.php/s/EhniyaS8YKkniEF) (updated on July 2025)
 
 <!--EndFragment-->
