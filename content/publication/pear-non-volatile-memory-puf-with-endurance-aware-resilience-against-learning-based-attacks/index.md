@@ -1,6 +1,6 @@
 ---
-title: "PEAR: Non-Volatile Memory PUF with Endurance- Aware Resilience against
-  Learning-based Attacks"
+title: "REAP-NVM: Resilient Endurance-Aware NVM-Based PUF Against Learning-Based
+  Attacks"
 publication_types:
   - "1"
 authors:
@@ -20,6 +20,7 @@ abstract: >-
   attacks. However, a significant issue with NVM-based PUFs is
 
   their endurance problem; frequent write operations lead to wear and degradation over time, reducing the reliability and lifespan of the PUF.
+
 
   This paper addresses these issues by offering a comprehensive model to predict and analyze the effects of endurance changes on NVM PUFs. This model provides insights into how wear impacts the PUF’s quality and helps in designing more robust PUFs. Building on this model, we present a novel design for NVM PUFs that significantly improves endurance. Our design approach incorporates advanced techniques to distribute write operations more evenly and reduce stress on individual cells. The result is an NVM PUF that demonstrates a 62× improvement in endurance compared to current state-of-the-art solutions while maintaining protection against learning-based attacks
 draft: false
