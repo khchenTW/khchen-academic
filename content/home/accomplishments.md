@@ -6,7 +6,7 @@ item:
     date_end: ""
     date_start: 2025-06-18
     description: ""
-    organization: International European Conference on Parallel and Distributed Computing
+    organization: International European Conference on Parallel and Distributed Computing (Euro-Par)
     organization_url: null
     title: Best Paper Nomination for "Wedge-Parallel Triangle Counting for GPUs"
     url: https://2025.euro-par.org/
