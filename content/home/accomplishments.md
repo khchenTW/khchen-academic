@@ -4,6 +4,14 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2025-07-15
+    description: ""
+    organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
+    organization_url: null
+    title: Web Chair and Workshop Chair
+    url: http://2026.rtas.org/
+  - certificate_url: null
+    date_end: ""
     date_start: 2025-06-18
     description: ""
     organization: International European Conference on Parallel and Distributed Computing (Euro-Par)
