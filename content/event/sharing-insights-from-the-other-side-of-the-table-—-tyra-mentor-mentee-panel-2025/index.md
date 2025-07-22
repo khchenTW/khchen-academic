@@ -37,13 +37,13 @@ date: 2025-07-19T13:00:25.336Z
 date_end: 2025-07-19T15:30:00.000Z
 all_day: false
 links: []
-event: https://www.projecttyra.org/
+event: https://www.projecttyra.org/talks/2025-07-19-%E6%B5%B7%E5%A4%96%E7%A0%94%E7%A9%B6%E6%89%80%E6%8B%9B%E7%94%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%95%E5%BE%8C%E8%A7%80%E9%BB%9E-part-2
 event_url: https://www.youtube.com/watch?v=KFzWx7brnv0
 publishDate: 2025-07-22T11:00:25.434Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
