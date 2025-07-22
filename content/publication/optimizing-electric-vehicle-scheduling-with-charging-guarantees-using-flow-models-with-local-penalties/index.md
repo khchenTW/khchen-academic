@@ -8,6 +8,7 @@ authors:
   - Mario Günzel
   - Kuan-Hsun Chen
   - Johann Hurink
+doi: 10.1145/3679240.3734593
 publication: ACM International Conference on Future Energy Systems (e-Energy 2025)
 publication_short: e-Energy 2025
 abstract: The rapid growth of electric vehicle fleets in combination with the
