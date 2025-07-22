@@ -26,9 +26,7 @@ abstract: >-
   According to the post-event survey, more than 90% of attendees gave full marks for satisfaction, length, relevance, speaker quality, and career development benefit. I’m thankful to the TYRA team, especially the moderator Meng-Hsuan, for the organization and their commitment to supporting early-career researchers.
 
 
-  📺 If you're curious, the full recording is available here (in Mandarin):
-
-  🔗 YouTube Video: TYRA 2025 Panel Discussion
+  📺 If you're curious, the full recording is available below (in Mandarin).
 
 
   Thank you again to TYRA for the opportunity and the beautifully crafted certificate of appreciation. I’m excited about future interactions and collaborations. Let's continue building a strong ecosystem that supports students from pre-application to post-graduation, just as Project TYRA envisioned.
@@ -37,7 +35,7 @@ date: 2025-07-19T13:00:25.336Z
 date_end: 2025-07-19T15:30:00.000Z
 all_day: false
 links: []
-event: https://www.projecttyra.org/talks/2025-07-19-%E6%B5%B7%E5%A4%96%E7%A0%94%E7%A9%B6%E6%89%80%E6%8B%9B%E7%94%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%95%E5%BE%8C%E8%A7%80%E9%BB%9E-part-2
+event: Youtube Streaming
 event_url: https://www.youtube.com/watch?v=KFzWx7brnv0
 publishDate: 2025-07-22T11:00:25.434Z
 draft: false
