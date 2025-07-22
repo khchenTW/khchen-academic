@@ -4,7 +4,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Embedded Systems
-  - Emerging Memories
+  - Emerging Computing Technologies
   - Dependable System Software
   - Resource-aware ML
 social:
