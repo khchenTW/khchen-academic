@@ -8,7 +8,7 @@ authors:
   - Mario Günzel
   - Kuan-Hsun Chen
   - Johann Hurink
-publication: ACM International Conference on Future Energy Systems
+publication: ACM International Conference on Future Energy Systems (e-Energy 2025)
 publication_short: e-Energy 2025
 abstract: The rapid growth of electric vehicle fleets in combination with the
   limited capacities of power grids necessitates coordinated charging
