@@ -32,6 +32,9 @@ abstract: As memory cells continue to shrink in modern semiconductor
   errors with a tunable false-positive rate.
 draft: false
 featured: false
+tags:
+  - Dependable Computing
+  - Radiation Test
 image:
   filename: ""
   focal_point: Smart
