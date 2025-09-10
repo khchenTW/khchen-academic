@@ -1,7 +1,7 @@
 ---
-title: "LazyTick: Lazy and Efficient Management of Job Release in  Real-Time
+title: "LazyTick: Lazy and Efficient Management of Job Release in Real-Time
   Operating Systems"
-subtitle: In Press
+subtitle: ""
 publication_types:
   - "2"
   - "1"
@@ -10,6 +10,7 @@ authors:
   - Christian Hakert
   - Kuan-Hsun Chen
   - Jian-Jia Chen
+doi: 10.1145/3762651
 publication: ACM SIGBED International Conference on Embedded Software (EMSOFT 2025)
 publication_short: EMSOFT 2025
 abstract: Releasing jobs and performing scheduling decisions in real-time
