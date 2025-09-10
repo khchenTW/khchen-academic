@@ -24,6 +24,9 @@ abstract: >-
   We first show that concrete problem instances exist where evaluating the utility accrual by simulating the scheduling algorithm or conducting scheduling experiments in a long run is erroneous. Afterwards, we show how to construct a Markov chain to model the interactions between the scheduling policy, the probabilistic workload of a periodic real-time task, the service provided by the system to serve the task, and the effect on the utility accrual. For such a Markov chain, we also provide the theoretical fundamentals to determine whether the utility accrual converges in the long run and the derivation of the utility accrual if it converges.
 draft: false
 featured: false
+tags:
+  - Real-Time Systems
+  - Probabilistic Analysis
 image:
   filename: ""
   focal_point: Smart
