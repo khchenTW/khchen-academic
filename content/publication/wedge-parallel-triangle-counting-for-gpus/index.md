@@ -27,6 +27,10 @@ abstract: For fast processing of increasingly large graphs, triangle counting â€
   (i.e., on avg. 2.86x faster than Trust and 2.32x faster than GroupTC).
 draft: false
 featured: false
+tags:
+  - Performance Engineering
+  - Software Mapping
+  - Graph Processing
 image:
   filename: ""
   focal_point: Smart
