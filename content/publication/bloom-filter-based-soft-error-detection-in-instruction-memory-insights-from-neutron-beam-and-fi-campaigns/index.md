@@ -1,7 +1,7 @@
 ---
 title: "Bloom Filter-Based Soft Error Detection in Instruction memory: Insights
   from Neutron Beam and FI campaigns"
-subtitle: In Press
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -11,8 +11,8 @@ authors:
   - Cazzaniga Carlo
   - Kuan-Hsun Chen
   - Marco Ottavi
-author_notes:
-  - In Press
+author_notes: []
+doi: 10.1109/IOLTS65288.2025.11116913
 publication: IEEE International Symposium on On-Line Testing and Robust System
   Design (IOLTS 2025)
 publication_short: IOLTS 2025
