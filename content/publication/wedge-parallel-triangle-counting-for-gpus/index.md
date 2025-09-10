@@ -26,7 +26,7 @@ abstract: For fast processing of increasingly large graphs, triangle counting â€
   Furthermore, we show that WeTriC consistently outperforms the state-of-the-art
   (i.e., on avg. 2.86x faster than Trust and 2.32x faster than GroupTC).
 draft: false
-featured: false
+featured: true
 tags:
   - Performance Engineering
   - Software Mapping
