@@ -23,6 +23,8 @@ draft: false
 featured: false
 categories:
   - Real-Time Systems
+  - Dependable Computing
+  - Machine Learning
 image:
   filename: ""
   focal_point: Smart
