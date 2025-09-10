@@ -28,7 +28,7 @@ abstract: "In soft real-time systems, tasks may occasionally miss their
   other and, in the evaluation, apply them to two well-known approaches based on
   direct convolution and Chernoff bounds."
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
