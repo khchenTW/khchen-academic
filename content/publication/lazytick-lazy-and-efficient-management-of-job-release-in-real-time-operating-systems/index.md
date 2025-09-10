@@ -37,6 +37,9 @@ abstract: Releasing jobs and performing scheduling decisions in real-time
   is reduced by up to ≈6.1× in peak and ≈3.6× on average.
 draft: false
 featured: true
+tags:
+  - Real-Time Systems
+  - Performance Engineering
 image:
   filename: ""
   focal_point: Smart
