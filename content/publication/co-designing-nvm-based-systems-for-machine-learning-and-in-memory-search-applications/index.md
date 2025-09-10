@@ -32,6 +32,11 @@ abstract: With the rapid development of the Internet of Things, machine learning
   large-scale search applications using NVMs.
 draft: false
 featured: false
+tags:
+  - NVM
+  - Special Section
+  - Machine Learning
+  - Co-Design
 image:
   filename: ""
   focal_point: Smart
