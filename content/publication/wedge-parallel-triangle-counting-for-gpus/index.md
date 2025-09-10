@@ -1,5 +1,6 @@
 ---
 title: Wedge-Parallel Triangle Counting for GPUs
+subtitle: Best Paper Nomination
 publication_types:
   - "1"
 authors:
