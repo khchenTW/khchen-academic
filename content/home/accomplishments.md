@@ -4,6 +4,14 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2025-10-28
+    description: We aim to build a Dutch community to address these challenges and drive innovation at the intersection of AI and systems. We will make joint efforts to develop Robust and Efficient Systems for AI (e.g., energy- and computing-efficient, reliable (embedded/ edge) computing systems and networks) and Effective AI for Systems (e.g., distributed and explainable AI methods to manage and orchestrate shared system resources, address complexity, and to improve systems scalability).
+    organization: 4TU.NIRICT Community Funding
+    organization_url: null
+    title: Systems Meet AI Driving Innovation in the Dutch Society
+    url: https://www.4tu.nl/nirict/Projects/All_projects/Systems%20Meet%20AI%20Driving%20Innovation%20in%20the%20Dutch%20Society/
+  - certificate_url: null
+    date_end: ""
     date_start: 2025-07-15
     description: ""
     organization: IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
