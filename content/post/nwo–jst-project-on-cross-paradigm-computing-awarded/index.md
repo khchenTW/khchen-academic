@@ -1,5 +1,6 @@
 ---
 title: NWO–JST Project on Cross-Paradigm Computing Awarded
+subtitle: ""
 date: 2026-06-01T15:50:06.578Z
 draft: false
 featured: false
@@ -8,9 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I am happy to share that our NWO–JST project, **“Cross-Paradigm Orchestration of Quantum Computers, Neuromorphic Chips, and Conventional Accelerators,”** has been awarded funding under the joint NWO–JST call for unconventional information processing technologies.
+I am happy to share that our NWO–JST project, **“Cross-Paradigm Orchestration of Quantum Computers, Neuromorphic Chips, and Conventional Accelerators,”** has been awarded funding under the joint NWO–JST call for unconventional information processing technologies. 
 
-The project is led by **Prof. dr. Ana-Lucia Varbanescu** from the University of Twente and **Dr. Jens Domke** from RIKEN. I am grateful to be involved as a co-applicant from the University of Twente, together with **Dr. Amir Yousefzadeh**, and our partners from the Netherlands and Japan: **Dr. Farhad Merchant** from the University of Groningen, **Dr. Mohammed Wahib** from RIKEN, **Dr. Guangzhi Tang** from Maastricht University, **Prof. Michihiro Koibuchi** from Keio University, and **Prof. Tomoyuki Miyajima** from Meiji University.
+The project is part of a selective NWO–JST programme, with five projects selected from 18 proposals, and the Dutch side receiving approximately €1.15 million in support from NWO. It is led by **Prof. dr. Ana-Lucia Varbanescu** from the University of Twente and **Dr. Jens Domke** from RIKEN. I am grateful to be involved as a co-applicant from the University of Twente, together with **Dr. Amir Yousefzadeh**, and our partners from the Netherlands and Japan: **Dr. Farhad Merchant** from the University of Groningen, **Dr. Mohammed Wahib** from RIKEN, **Dr. Guangzhi Tang** from Maastricht University, **Prof. Michihiro Koibuchi** from Keio University, and **Prof. Tomoyuki Miyajima** from Meiji University.
 
 Modern scientific computing and AI increasingly rely on large-scale computing infrastructure. However, conventional CPU- and GPU-based supercomputers alone cannot fully exploit emerging computing paradigms such as quantum processors and brain-inspired neuromorphic chips. These technologies promise major performance and energy-efficiency benefits, but integrating them into a coherent and programmable computing system remains a major challenge.
 
