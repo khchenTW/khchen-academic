@@ -4,6 +4,14 @@ date_format: Jan 2006
 item:
   - certificate_url: null
     date_end: ""
+    date_start: 2026-05-28
+    description: QuNeCo brings together experts from the Netherlands and Japan to build a next-generation cross-paradigm supercomputer that combines all of these. We are developing software that decides, for each step of a large computation, whether a CPU, GPU, quantum chip, or neuromorphic chip is best suited, based on speed, energy use, and reliability. We will test the system on real scientific simulations such as materials design and on AI workloads such as event-driven neural networks.
+    organization: Dutch Research Council (NWO) and the Japan Science and Technology Agency (JST) 
+    organization_url: https://www.nwo.nl/en/news/five-research-projects-receive-funding-under-the-nwo-jst-call-for-unconventional-information-processing-technologies
+    title: QUNECO: Cross-Paradigm Orchestration of Quantum Computers, Neuromorphic Chips, and Conventional Accelerators
+    url: https://www.quneco.org/
+  - certificate_url: null
+    date_end: ""
     date_start: 2025-10-28
     description: We aim to build a Dutch community to address these challenges and drive innovation at the intersection of AI and systems. We will make joint efforts to develop Robust and Efficient Systems for AI (e.g., energy- and computing-efficient, reliable (embedded/ edge) computing systems and networks) and Effective AI for Systems (e.g., distributed and explainable AI methods to manage and orchestrate shared system resources, address complexity, and to improve systems scalability).
     organization: 4TU.NIRICT Community Funding
