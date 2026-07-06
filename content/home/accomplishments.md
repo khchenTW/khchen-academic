@@ -3,7 +3,7 @@ widget: accomplishments
 date_format: Jan 2006
 item:
   - certificate_url: null
-    date_end: 2022-06-28
+    date_end: 2026-06-28
     date_start: 2025-09-17
     description: ""
     organization: 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
