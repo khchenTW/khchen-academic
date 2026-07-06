@@ -3,13 +3,21 @@ widget: accomplishments
 date_format: Jan 2006
 item:
   - certificate_url: null
-    date_end: ""
-    date_start: 2026-05-28
+    date_end: 2022-06-28
+    date_start: 2025-09-17
     description: ""
     organization: 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
     organization_url: https://dsn2026.github.io/
     title: Distinguished Reviewer Award
-    url: 
+    url:
+  - certificate_url: null
+    date_end: ""
+    date_start: 2026-06-17
+    description: ""
+    organization: The European Event for Electronic System Design & Test (DATE)
+    organization_url: https://www.date-conference.com/
+    title: Co-Chair for Topic A6 – Applications of Artificial Intelligence Systems
+    url:     
   - certificate_url: null
     date_end: ""
     date_start: 2026-05-28
