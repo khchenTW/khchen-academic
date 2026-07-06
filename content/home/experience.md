@@ -22,15 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professor
-    company: Computer Systems Group, Paderborn University
-    company_url: 'https://uni-paderborn.de/en/person/128464'
-    company_logo: 
-    location: Paderborn, Germany
-    date_start: '2026-10-01'
-    date_end: ''
-    description: |2-
-    
   - title: Assistant Professor (UD1, tenured)
     company: Computer Architecture and Embedded Systems, University of Twente
     company_url: 'https://people.utwente.nl/k.h.chen?tab=about-me'
