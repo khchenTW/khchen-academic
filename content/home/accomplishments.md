@@ -5,6 +5,14 @@ item:
   - certificate_url: null
     date_end: ""
     date_start: 2026-05-28
+    description: ""
+    organization: 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+    organization_url: https://dsn2026.github.io/
+    title: Distinguished Reviewer Award
+    url: 
+  - certificate_url: null
+    date_end: ""
+    date_start: 2026-05-28
     description: QuNeCo brings together experts from the Netherlands and Japan to build a next-generation cross-paradigm supercomputer that combines all of these. We are developing software that decides, for each step of a large computation, whether a CPU, GPU, quantum chip, or neuromorphic chip is best suited, based on speed, energy use, and reliability. We will test the system on real scientific simulations such as materials design and on AI workloads such as event-driven neural networks.
     organization: Dutch Research Council (NWO) and the Japan Science and Technology Agency (JST) 
     organization_url: https://www.nwo.nl/en/news/five-research-projects-receive-funding-under-the-nwo-jst-call-for-unconventional-information-processing-technologies
