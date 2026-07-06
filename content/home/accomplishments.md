@@ -14,7 +14,7 @@ item:
     date_end: ""
     date_start: 2026-06-17
     description: ""
-    organization: The European Event for Electronic System Design & Test (DATE)
+    organization: Design, Automation and Test in Europe Conference (DATE)
     organization_url: https://www.date-conference.com/
     title: Co-Chair for Topic A6 – Applications of Artificial Intelligence Systems
     url:     
