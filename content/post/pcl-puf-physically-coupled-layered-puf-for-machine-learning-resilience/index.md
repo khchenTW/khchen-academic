@@ -1,5 +1,6 @@
 ---
-title: "PCL-PUF: Physically Coupled Layered PUF for Machine Learning Resilience"
+title: "CODES 2026 Paper Accepted: Physically Coupled Layered PUF for Machine
+  Learning Resilience"
 date: 2026-07-16T14:01:01.012Z
 draft: false
 featured: false
