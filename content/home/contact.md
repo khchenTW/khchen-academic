@@ -17,7 +17,7 @@ content:
   coordinates:
     latitude: "52.23930"
     longitude: "6.8570"
-  email: k.h.chen@utwente.nl
+  email: k.h.chen@utwente.nl / kuan.hsun.chen@upb.de
 design:
   columns: "2"
   background:
