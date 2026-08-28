@@ -14,9 +14,9 @@ item:
     date_end: ""
     date_start: 2026-06-17
     description: ""
-    organization: Design, Automation and Test in Europe Conference (DATE)
+    organization: Design, Automation and Test in Europe Conference (DATE) 2027
     organization_url: https://www.date-conference.com/
-    title: Co-Chair for Topic A6 – Applications of Artificial Intelligence Systems
+    title: Chair for Topic A6 – Applications of Artificial Intelligence Systems
     url:     
   - certificate_url: null
     date_end: ""
