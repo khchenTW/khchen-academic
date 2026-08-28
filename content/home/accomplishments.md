@@ -3,6 +3,14 @@ widget: accomplishments
 date_format: Jan 2006
 item:
   - certificate_url: null
+    date_end: 2026-07-29
+    date_start: 2026-07-26
+    description: ""
+    organization: Design Automation Conference (DAC) 2026, The Chips to Systems Conference
+    organization_url: https://dac.com/2026
+    title: Outstanding TPC Member
+    url:
+  - certificate_url: null
     date_end: 2026-06-28
     date_start: 2025-09-17
     description: ""
