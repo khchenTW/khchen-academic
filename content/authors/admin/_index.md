@@ -21,9 +21,6 @@ social:
 organizations:
   - name: Computer Systems group at Paderborn University
     url: https://www.uni-paderborn.de/person/128464
-  - name: Computer Architecture for Embedded Systems group at the University of
-      Twente
-    url: https://www.utwente.nl/en/eemcs/caes/
 education:
   courses:
     - course: PhD in Computer Science (Dr.-Ing., with the highest distinction "summa
@@ -36,13 +33,13 @@ education:
     - course: BA in Computer Science (Minor) / Humanities and Social Sciences (Major)
       institution: National Tsing Hua Uni­ver­sity in Taiwan
       year: 2011
-email: k.h.chen@utwente.nl
+email: kuan-hsun.chen@upb.de
 superuser: true
 highlight_name: true
 ---
 <!--StartFragment-->
 
-I am a Professor (from Oct 2026) in the Computer Systems group at Paderborn University. Prior to this, I was an assistant professor in the [Computer Architecture for Embedded Systems (CAES) group](https://www.utwente.nl/en/eemcs/caes/) at the University of Twente, in the Netherlands. Previously, I was a Postdoc in[ Design Automation for Embedded Systems Group](https://daes.cs.tu-dortmund.de/de) from 2019 to 2021. I earned my PhD in Computer Science between November 2014 and May 2019 in TU Dortmund, Germany. Before my PhD, I received my bachelor and master degrees in "Interdisciplinary Program of Humanities and Social Sciences" (2011) and Computer Science (2013) respectively, from National Tsing-Hua University in Taiwan. I currently serve as [Associate Editor for the IEEE Nanotechnology Magazine](https://inm.ieeenano.org/editorial-board/).
+I am a Professor of the Computer Systems group at Paderborn University. Previously I was an assistant professor in the [Computer Architecture for Embedded Systems (CAES) group](https://www.utwente.nl/en/eemcs/caes/) at the University of Twente, in the Netherlands. Previously, I was a Postdoc in[ Design Automation for Embedded Systems Group](https://daes.cs.tu-dortmund.de/de) from 2019 to 2021. I earned my PhD in Computer Science between November 2014 and May 2019 in TU Dortmund, Germany. Before my PhD, I received my bachelor and master degrees in "Interdisciplinary Program of Humanities and Social Sciences" (2011) and Computer Science (2013) respectively, from National Tsing-Hua University in Taiwan. I currently serve as [Associate Editor for the IEEE Nanotechnology Magazine](https://inm.ieeenano.org/editorial-board/).
 
 My research interests span a wide spectrum, ranging from intricate algorithms to detailed compilation processes. Particularly, I focus on system software for dependable computing and emerging memory technologies. In addition to my academic pursuits, I am committed to mentorship, engaging in programs such as Google and ESA Space Summer of Code. Furthermore, I am passionate about contributing to open-source development, with a particular emphasis on RTEMS and [Tl2cgen](https://tl2cgen.readthedocs.io/en/latest/). During my free time, I also provide technical consultancy services to [an indie game design studio](https://da2creative.com/). This multifaceted dedication reflects my enthusiasm for both theoretical exploration and hands-on implementation in the ever-evolving landscape of technology.
 
